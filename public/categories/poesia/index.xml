@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Poesia on por Pablo A.</title>
+    <link>http://localhost:1313/categories/poesia/</link>
+    <description>Recent content in Poesia on por Pablo A.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt</language>
+    <lastBuildDate>Thu, 25 Sep 2025 05:39:36 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/poesia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Peso</title>
+      <link>http://localhost:1313/posts/peso/</link>
+      <pubDate>Thu, 25 Sep 2025 05:39:36 -0300</pubDate>
+      <guid>http://localhost:1313/posts/peso/</guid>
+      <description>Ponderar, pesa&#xA;Melancolia percorre meus nervos&#xA;Me deixando dormente&#xA;O dia passa, nublado&#xA;Meus olhos sem foco&#xA;Não percebem o óbvio&#xA;A luz já se esgotou&#xA;E as últimas gotas de sinceridade, são negadas&#xA;Água escorre, jorra&#xA;A pele amassada&#xA;Vermelho&#xA;A dor&#xA;Resta&#xA;Apenas eu&#xA;Sem resposta&#xA;Apenas a constante certeza&#xA;De que algo será feito</description>
+    </item>
+  </channel>
+</rss>

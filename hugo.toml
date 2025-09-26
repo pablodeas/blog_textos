@@ -1,0 +1,44 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'por Pablo A.'
+theme = "yinyang"
+DefaultContentLanguage = "pt"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    guessSyntax = true
+    noClasses = true
+    style = "bw"
+    tabWidth = 2
+
+[author]
+  name = "Pablo"
+  homepage = "https://joway.io/"
+
+[languages]
+  [languages.pt]
+    contentDir = "content/pt"
+    languageName = "Porguês"
+    weight = 1
+
+[params]
+mainSections = ["posts"]
+headTitle = "Textos."
+#disqus = "pablo" # disqus account name
+#extraHead = '<script async src="https://www.googletagmanager.com/gtag/js?id=UA-xxx"></script>'
+
+[[params.socials]]
+name = "Instagram"
+link = "https://www.instagram.com/pablodeas/"
+
+[[params.socials]]
+name = "Github"
+link = "https://github.com/pablodeas"
+
+postHeaderContent = ""
+postFooterContent = "<br/><br/><p>Subscribe：<a target='_blank' href='https://mailchi.mp/a1a0d59e7a19/joway'>Joway's Blog</a></p>"
+# extraCSSFiles = ["css/foo.css", "css/bar.css"]
+extraCSSFiles = []
