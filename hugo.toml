@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'por Pablo A.'
+title = 'Textos'
 theme = "yinyang"
 DefaultContentLanguage = "pt"
 
@@ -26,7 +26,7 @@ DefaultContentLanguage = "pt"
 
 [params]
 mainSections = ["posts"]
-headTitle = "Textos."
+headTitle = "Pablo A."
 #disqus = "pablo" # disqus account name
 #extraHead = '<script async src="https://www.googletagmanager.com/gtag/js?id=UA-xxx"></script>'
 
