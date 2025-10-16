@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Suspense on Textos</title>
+    <link>http://localhost:1313/categories/suspense/</link>
+    <description>Recent content in Suspense on Textos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt</language>
+    <lastBuildDate>Tue, 14 Oct 2025 18:42:06 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/suspense/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Um Dia Ruim</title>
+      <link>http://localhost:1313/posts/um_dia_ruim/</link>
+      <pubDate>Tue, 14 Oct 2025 18:42:06 -0300</pubDate>
+      <guid>http://localhost:1313/posts/um_dia_ruim/</guid>
+      <description>1.&#xA;Sábado, 19:55.&#xA;JOE, ABRE A PORTA! Calma, to indo. Elisa entrou na casa rapidamente, estava visivelmente abalada. O que aconteceu? Ele me bateu, Joe. Aquele filho da puta me bateu. O sangue de Joe ferveu quando ouviu aquelas palavras saírem da boca de sua irmã. Senta aqui, vou pegar uma água. Eu não acredito que to passando por isso, cara. Porra, como eu pude ser tão idiota. Toma, bebe devagar e me conta do começo.</description>
+    </item>
+  </channel>
+</rss>

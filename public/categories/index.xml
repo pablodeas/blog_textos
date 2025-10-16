@@ -6,8 +6,29 @@
     <description>Recent content in Categories on Textos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt</language>
-    <lastBuildDate>Mon, 06 Oct 2025 05:07:08 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 18:42:06 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Conto</title>
+      <link>http://localhost:1313/categories/conto/</link>
+      <pubDate>Tue, 14 Oct 2025 18:42:06 -0300</pubDate>
+      <guid>http://localhost:1313/categories/conto/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Suspense</title>
+      <link>http://localhost:1313/categories/suspense/</link>
+      <pubDate>Tue, 14 Oct 2025 18:42:06 -0300</pubDate>
+      <guid>http://localhost:1313/categories/suspense/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pensamento</title>
+      <link>http://localhost:1313/categories/pensamento/</link>
+      <pubDate>Sat, 11 Oct 2025 04:26:54 -0300</pubDate>
+      <guid>http://localhost:1313/categories/pensamento/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Poesia</title>
       <link>http://localhost:1313/categories/poesia/</link>
