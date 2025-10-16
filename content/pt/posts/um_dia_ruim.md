@@ -29,7 +29,7 @@ O sangue de Joe ferveu quando ouviu aquelas palavras saírem da boca de sua irm�
 
 — Toma, bebe devagar e me conta do começo.
 
-Joe puxou uma cadeira e sentou de frente para sua irmã. Agora, olhando com calma, pôde analisar seu estado. O lado esquerdo do rosto dela estava vermelho, um vermelho que ele conhecia bem. O golpe que ela levou foi forte.
+Joe puxou uma cadeira e sentou de frente para sua irmã. Agora, olhando com calma, pôde analisar seu estado. O lado esquerdo de seu rosto estava vermelho, um vermelho que ele conhecia bem. O golpe que ela levou foi forte.
 
 — Eu e Julio fomos para a casa nova hoje pela manhã. A obra tinha acabado recentemente, então íamos aproveitar o dia por lá pra amanhã irmos pra mamãe no almoço.
 
