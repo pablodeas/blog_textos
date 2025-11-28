@@ -4,7 +4,7 @@
     <title>Tags on Textos</title>
     <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Textos</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>pt</language>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
