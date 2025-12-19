@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Textos</title>
     <link>http://localhost:1313/</link>
     <description>Recent content on Textos</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.152.2</generator>
     <language>pt</language>
+    <copyright>Pablo Andrade</copyright>
     <lastBuildDate>Sun, 14 Dec 2025 05:40:32 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -13,133 +14,319 @@
       <link>http://localhost:1313/posts/amor_no_seculo_da_putaria/</link>
       <pubDate>Sun, 14 Dec 2025 05:40:32 -0300</pubDate>
       <guid>http://localhost:1313/posts/amor_no_seculo_da_putaria/</guid>
-      <description>&lt;p&gt;Eu sempre tive uma percepção antiquada sobre amor e relacionamento.&lt;/p&gt;&#xA;&lt;p&gt;Talvez por ter tido um excelente exemplo em casa.&lt;/p&gt;&#xA;&lt;p&gt;Talvez pela influência midiática da época.&lt;/p&gt;&#xA;&lt;p&gt;Sempre gostei de assistir filmes, seriados. Indiretamente eles acabam impactando na nossa visão de mundo.&lt;/p&gt;&#xA;&lt;p&gt;Eu me via como um paladino. Encontraria a minha donzela encantada e a partir daquele momento, seria seu protetor para todo o sempre.&lt;/p&gt;&#xA;&lt;p&gt;Obviamente eu estava errado.&lt;/p&gt;&#xA;&lt;p&gt;Não sobre existirem donzelas encantadas. Mas por ser um assunto mais complexo do que apenas essa visão binária.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Eu sempre tive uma percepção antiquada sobre amor e relacionamento.&lt;/p&gt;
+&lt;p&gt;Talvez por ter tido um excelente exemplo em casa.&lt;/p&gt;
+&lt;p&gt;Talvez pela influência midiática da época.&lt;/p&gt;
+&lt;p&gt;Sempre gostei de assistir filmes, seriados. Indiretamente eles acabam impactando na nossa visão de mundo.&lt;/p&gt;
+&lt;p&gt;Eu me via como um paladino. Encontraria a minha donzela encantada e a partir daquele momento, seria seu protetor para todo o sempre.&lt;/p&gt;
+&lt;p&gt;Obviamente eu estava errado.&lt;/p&gt;
+&lt;p&gt;Não sobre existirem donzelas encantadas. Mas por ser um assunto mais complexo do que apenas essa visão binária.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Lembranças Confusas</title>
       <link>http://localhost:1313/posts/lembrancas_confusas/</link>
       <pubDate>Fri, 28 Nov 2025 17:31:52 -0300</pubDate>
       <guid>http://localhost:1313/posts/lembrancas_confusas/</guid>
-      <description>&lt;p&gt;O constante desejo de cometer erros.&lt;/p&gt;&#xA;&lt;p&gt;Questões já solucionadas.&lt;/p&gt;&#xA;&lt;p&gt;Novos problemas.&lt;/p&gt;&#xA;&lt;p&gt;Falhas que juramos jamais cometer novamente.&lt;/p&gt;&#xA;&lt;p&gt;Mas existe algo reconfortante nisso.&lt;/p&gt;&#xA;&lt;p&gt;Uma sensação de se sentir em casa.&lt;/p&gt;&#xA;&lt;p&gt;Um velho amigo, inimigo, que se conhece desde o início.&lt;/p&gt;&#xA;&lt;p&gt;Um erro que destruiu a sua vida.&lt;/p&gt;&#xA;&lt;p&gt;Um momento de dor, de tristeza.&lt;/p&gt;&#xA;&lt;p&gt;Em algum ponto, se torna confortável.&lt;/p&gt;&#xA;&lt;p&gt;O que claramente foi ruim.&lt;/p&gt;&#xA;&lt;p&gt;Se torna uma lembrança cheia de sentimentos confusos.&lt;/p&gt;</description>
+      <description>&lt;p&gt;O constante desejo de cometer erros.&lt;/p&gt;
+&lt;p&gt;Questões já solucionadas.&lt;/p&gt;
+&lt;p&gt;Novos problemas.&lt;/p&gt;
+&lt;p&gt;Falhas que juramos jamais cometer novamente.&lt;/p&gt;
+&lt;p&gt;Mas existe algo reconfortante nisso.&lt;/p&gt;
+&lt;p&gt;Uma sensação de se sentir em casa.&lt;/p&gt;
+&lt;p&gt;Um velho amigo, inimigo, que se conhece desde o início.&lt;/p&gt;
+&lt;p&gt;Um erro que destruiu a sua vida.&lt;/p&gt;
+&lt;p&gt;Um momento de dor, de tristeza.&lt;/p&gt;
+&lt;p&gt;Em algum ponto, se torna confortável.&lt;/p&gt;
+&lt;p&gt;O que claramente foi ruim.&lt;/p&gt;
+&lt;p&gt;Se torna uma lembrança cheia de sentimentos confusos.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Suficiente</title>
       <link>http://localhost:1313/posts/suficiente/</link>
       <pubDate>Tue, 11 Nov 2025 10:31:16 -0300</pubDate>
       <guid>http://localhost:1313/posts/suficiente/</guid>
-      <description>&lt;p&gt;Nada como um dia após o outro.&lt;/p&gt;&#xA;&lt;p&gt;Nada como aprender com as experiências.&lt;/p&gt;&#xA;&lt;p&gt;Nada como crescer.&lt;/p&gt;&#xA;&lt;p&gt;Muitas vezes me pego refletindo&lt;/p&gt;&#xA;&lt;p&gt;Tenho verdadeiramente crescido?&lt;/p&gt;&#xA;&lt;p&gt;Aprendi com os erros?&lt;/p&gt;&#xA;&lt;p&gt;Evoluí como um indivíduo?&lt;/p&gt;&#xA;&lt;p&gt;Se levanto estas questões, não estou satisfeito.&lt;/p&gt;&#xA;&lt;p&gt;A busca incessante.&lt;/p&gt;&#xA;&lt;p&gt;A necessidade de se mover.&lt;/p&gt;&#xA;&lt;p&gt;Passos em busca do possível &amp;ldquo;melhor&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;Mas esta busca sem fim.&lt;/p&gt;&#xA;&lt;p&gt;Cria um vazio.&lt;/p&gt;&#xA;&lt;p&gt;A felicidade se encontra apenas quando o &amp;ldquo;melhor&amp;rdquo; é alcançado.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Nada como um dia após o outro.&lt;/p&gt;
+&lt;p&gt;Nada como aprender com as experiências.&lt;/p&gt;
+&lt;p&gt;Nada como crescer.&lt;/p&gt;
+&lt;p&gt;Muitas vezes me pego refletindo&lt;/p&gt;
+&lt;p&gt;Tenho verdadeiramente crescido?&lt;/p&gt;
+&lt;p&gt;Aprendi com os erros?&lt;/p&gt;
+&lt;p&gt;Evoluí como um indivíduo?&lt;/p&gt;
+&lt;p&gt;Se levanto estas questões, não estou satisfeito.&lt;/p&gt;
+&lt;p&gt;A busca incessante.&lt;/p&gt;
+&lt;p&gt;A necessidade de se mover.&lt;/p&gt;
+&lt;p&gt;Passos em busca do possível &amp;ldquo;melhor&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Mas esta busca sem fim.&lt;/p&gt;
+&lt;p&gt;Cria um vazio.&lt;/p&gt;
+&lt;p&gt;A felicidade se encontra apenas quando o &amp;ldquo;melhor&amp;rdquo; é alcançado.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Um Dia Ruim</title>
       <link>http://localhost:1313/posts/um_dia_ruim/</link>
       <pubDate>Tue, 14 Oct 2025 18:42:06 -0300</pubDate>
       <guid>http://localhost:1313/posts/um_dia_ruim/</guid>
-      <description>&lt;h2 id=&#34;1&#34;&gt;1&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Sábado, 19:55.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;— JOE, ABRE A PORTA!&lt;/p&gt;&#xA;&lt;p&gt;— Calma, tô indo.&lt;/p&gt;&#xA;&lt;p&gt;Elisa entrou na casa rapidamente, estava visivelmente abalada.&lt;/p&gt;&#xA;&lt;p&gt;— O que aconteceu?&lt;/p&gt;&#xA;&lt;p&gt;— Ele me bateu, Joe. Aquele filho da puta me bateu.&lt;/p&gt;&#xA;&lt;p&gt;O sangue de Joe ferveu quando ouviu aquelas palavras saírem da boca de sua irmã.&lt;/p&gt;&#xA;&lt;p&gt;— Senta aqui, vou pegar uma água.&lt;/p&gt;&#xA;&lt;p&gt;— Eu não acredito que tô passando por isso, cara. Porra, como eu pude ser tão idiota.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;1&#34;&gt;1&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Sábado, 19:55.&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;— JOE, ABRE A PORTA!&lt;/p&gt;
+&lt;p&gt;— Calma, tô indo.&lt;/p&gt;
+&lt;p&gt;Elisa entrou na casa rapidamente, estava visivelmente abalada.&lt;/p&gt;
+&lt;p&gt;— O que aconteceu?&lt;/p&gt;
+&lt;p&gt;— Ele me bateu, Joe. Aquele filho da puta me bateu.&lt;/p&gt;
+&lt;p&gt;O sangue de Joe ferveu quando ouviu aquelas palavras saírem da boca de sua irmã.&lt;/p&gt;
+&lt;p&gt;— Senta aqui, vou pegar uma água.&lt;/p&gt;
+&lt;p&gt;— Eu não acredito que tô passando por isso, cara. Porra, como eu pude ser tão idiota.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Falhar</title>
       <link>http://localhost:1313/posts/falhar/</link>
       <pubDate>Sat, 11 Oct 2025 04:26:54 -0300</pubDate>
       <guid>http://localhost:1313/posts/falhar/</guid>
-      <description>&lt;p&gt;Talvez devêssemos falhar com mais frequência.&lt;/p&gt;&#xA;&lt;p&gt;Não que falhar já não faça parte da nossa vida, mas deveríamos falhar mais ainda.&lt;/p&gt;&#xA;&lt;p&gt;Falhar em mais áreas diferentes, para que possamos ser recompensados quando conseguirmos alcançar o sucesso.&lt;/p&gt;&#xA;&lt;p&gt;Não há recompensa pela atividade repetitiva frequente.&lt;/p&gt;&#xA;&lt;p&gt;Digamos que você sempre conseguiu abrir um pote sem dificuldade por toda sua vida.&lt;/p&gt;&#xA;&lt;p&gt;A doença chegou, você perdeu força e agora não consegue mais executar uma atividade tão trivial.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Talvez devêssemos falhar com mais frequência.&lt;/p&gt;
+&lt;p&gt;Não que falhar já não faça parte da nossa vida, mas deveríamos falhar mais ainda.&lt;/p&gt;
+&lt;p&gt;Falhar em mais áreas diferentes, para que possamos ser recompensados quando conseguirmos alcançar o sucesso.&lt;/p&gt;
+&lt;p&gt;Não há recompensa pela atividade repetitiva frequente.&lt;/p&gt;
+&lt;p&gt;Digamos que você sempre conseguiu abrir um pote sem dificuldade por toda sua vida.&lt;/p&gt;
+&lt;p&gt;A doença chegou, você perdeu força e agora não consegue mais executar uma atividade tão trivial.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Erro</title>
       <link>http://localhost:1313/posts/erro/</link>
       <pubDate>Mon, 06 Oct 2025 05:07:08 -0300</pubDate>
       <guid>http://localhost:1313/posts/erro/</guid>
-      <description>&lt;p&gt;O que pode ser aprendido com os erros, senão como cometê-los de forma mais dolorosa.&lt;/p&gt;&#xA;&lt;p&gt;Escutar é confusão.&lt;/p&gt;&#xA;&lt;p&gt;Omissão travestida de conselho.&lt;/p&gt;&#xA;&lt;p&gt;Manchando a fina fita, marcada por uma vida em pecado.&lt;/p&gt;&#xA;&lt;p&gt;Deveríamos errar de forma horrível, juntos.&lt;/p&gt;&#xA;&lt;p&gt;Transformando o erro no nosso acerto.&lt;/p&gt;&#xA;&lt;p&gt;Uma chuva vermelha.&lt;/p&gt;&#xA;&lt;p&gt;Pétalas à cair.&lt;/p&gt;&#xA;&lt;p&gt;Nós dois abraçados, aguardando.&lt;/p&gt;&#xA;&lt;p&gt;Conformados.&lt;/p&gt;&#xA;&lt;p&gt;Confortavéis.&lt;/p&gt;&#xA;&lt;p&gt;Felizes.&lt;/p&gt;&#xA;&lt;p&gt;O presente momento só é possível pelos degraus quebrados de ontem.&lt;/p&gt;&#xA;&lt;p&gt;Os estilhaços, presos aos meus pés.&lt;/p&gt;</description>
+      <description>&lt;p&gt;O que pode ser aprendido com os erros, senão como cometê-los de forma mais dolorosa.&lt;/p&gt;
+&lt;p&gt;Escutar é confusão.&lt;/p&gt;
+&lt;p&gt;Omissão travestida de conselho.&lt;/p&gt;
+&lt;p&gt;Manchando a fina fita, marcada por uma vida em pecado.&lt;/p&gt;
+&lt;p&gt;Deveríamos errar de forma horrível, juntos.&lt;/p&gt;
+&lt;p&gt;Transformando o erro no nosso acerto.&lt;/p&gt;
+&lt;p&gt;Uma chuva vermelha.&lt;/p&gt;
+&lt;p&gt;Pétalas à cair.&lt;/p&gt;
+&lt;p&gt;Nós dois abraçados, aguardando.&lt;/p&gt;
+&lt;p&gt;Conformados.&lt;/p&gt;
+&lt;p&gt;Confortavéis.&lt;/p&gt;
+&lt;p&gt;Felizes.&lt;/p&gt;
+&lt;p&gt;O presente momento só é possível pelos degraus quebrados de ontem.&lt;/p&gt;
+&lt;p&gt;Os estilhaços, presos aos meus pés.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Peso</title>
       <link>http://localhost:1313/posts/peso/</link>
       <pubDate>Thu, 25 Sep 2025 05:39:36 -0300</pubDate>
       <guid>http://localhost:1313/posts/peso/</guid>
-      <description>&lt;p&gt;Ponderar, pesa&lt;/p&gt;&#xA;&lt;p&gt;Melancolia percorre meus nervos&lt;/p&gt;&#xA;&lt;p&gt;Me deixando dormente&lt;/p&gt;&#xA;&lt;p&gt;O dia passa, nublado&lt;/p&gt;&#xA;&lt;p&gt;Meus olhos sem foco&lt;/p&gt;&#xA;&lt;p&gt;Não percebem o óbvio&lt;/p&gt;&#xA;&lt;p&gt;A luz já se esgotou&lt;/p&gt;&#xA;&lt;p&gt;E as últimas gotas de sinceridade, são negadas&lt;/p&gt;&#xA;&lt;p&gt;Água escorre, jorra&lt;/p&gt;&#xA;&lt;p&gt;A pele amassada&lt;/p&gt;&#xA;&lt;p&gt;Vermelho&lt;/p&gt;&#xA;&lt;p&gt;A dor&lt;/p&gt;&#xA;&lt;p&gt;Resta&lt;/p&gt;&#xA;&lt;p&gt;Apenas eu&lt;/p&gt;&#xA;&lt;p&gt;Sem resposta&lt;/p&gt;&#xA;&lt;p&gt;Apenas a constante certeza&lt;/p&gt;&#xA;&lt;p&gt;De que algo será feito&lt;/p&gt;</description>
+      <description>&lt;p&gt;Ponderar, pesa&lt;/p&gt;
+&lt;p&gt;Melancolia percorre meus nervos&lt;/p&gt;
+&lt;p&gt;Me deixando dormente&lt;/p&gt;
+&lt;p&gt;O dia passa, nublado&lt;/p&gt;
+&lt;p&gt;Meus olhos sem foco&lt;/p&gt;
+&lt;p&gt;Não percebem o óbvio&lt;/p&gt;
+&lt;p&gt;A luz já se esgotou&lt;/p&gt;
+&lt;p&gt;E as últimas gotas de sinceridade, são negadas&lt;/p&gt;
+&lt;p&gt;Água escorre, jorra&lt;/p&gt;
+&lt;p&gt;A pele amassada&lt;/p&gt;
+&lt;p&gt;Vermelho&lt;/p&gt;
+&lt;p&gt;A dor&lt;/p&gt;
+&lt;p&gt;Resta&lt;/p&gt;
+&lt;p&gt;Apenas eu&lt;/p&gt;
+&lt;p&gt;Sem resposta&lt;/p&gt;
+&lt;p&gt;Apenas a constante certeza&lt;/p&gt;
+&lt;p&gt;De que algo será feito&lt;/p&gt;</description>
     </item>
     <item>
       <title>Palavras</title>
       <link>http://localhost:1313/posts/palavras/</link>
       <pubDate>Mon, 30 Jun 2025 17:06:01 -0300</pubDate>
       <guid>http://localhost:1313/posts/palavras/</guid>
-      <description>&lt;p&gt;Palavras constroem,&lt;/p&gt;&#xA;&lt;p&gt;destroem.&lt;/p&gt;&#xA;&lt;p&gt;Curam,&lt;/p&gt;&#xA;&lt;p&gt;ferem.&lt;/p&gt;&#xA;&lt;p&gt;Palavras tem poder,&lt;/p&gt;&#xA;&lt;p&gt;místico,&lt;/p&gt;&#xA;&lt;p&gt;antigo.&lt;/p&gt;&#xA;&lt;p&gt;Criam tudo,&lt;/p&gt;&#xA;&lt;p&gt;até o desperdício.&lt;/p&gt;&#xA;&lt;p&gt;O valor deve ser compreendido.&lt;/p&gt;&#xA;&lt;p&gt;Intenção certeira.&lt;/p&gt;&#xA;&lt;p&gt;Efeito positivo.&lt;/p&gt;&#xA;&lt;p&gt;Pois o poder tem palavras.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Palavras constroem,&lt;/p&gt;
+&lt;p&gt;destroem.&lt;/p&gt;
+&lt;p&gt;Curam,&lt;/p&gt;
+&lt;p&gt;ferem.&lt;/p&gt;
+&lt;p&gt;Palavras tem poder,&lt;/p&gt;
+&lt;p&gt;místico,&lt;/p&gt;
+&lt;p&gt;antigo.&lt;/p&gt;
+&lt;p&gt;Criam tudo,&lt;/p&gt;
+&lt;p&gt;até o desperdício.&lt;/p&gt;
+&lt;p&gt;O valor deve ser compreendido.&lt;/p&gt;
+&lt;p&gt;Intenção certeira.&lt;/p&gt;
+&lt;p&gt;Efeito positivo.&lt;/p&gt;
+&lt;p&gt;Pois o poder tem palavras.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Arma</title>
       <link>http://localhost:1313/posts/arma/</link>
       <pubDate>Sun, 01 Jun 2025 17:05:56 -0300</pubDate>
       <guid>http://localhost:1313/posts/arma/</guid>
-      <description>&lt;p&gt;O Amor é poderoso&lt;/p&gt;&#xA;&lt;p&gt;Aprendi na prática&lt;/p&gt;&#xA;&lt;p&gt;Seu poder&lt;/p&gt;&#xA;&lt;p&gt;Devastador&lt;/p&gt;&#xA;&lt;p&gt;E Magnífico&lt;/p&gt;&#xA;&lt;p&gt;Capaz de trazer&lt;/p&gt;&#xA;&lt;p&gt;Ecos infantis em vozes adultas&lt;/p&gt;&#xA;&lt;p&gt;Carentes de atenção e validação&lt;/p&gt;&#xA;&lt;p&gt;Motivação escondida&lt;/p&gt;&#xA;&lt;p&gt;Incapaz de conceber&lt;/p&gt;&#xA;&lt;p&gt;De responsabilizar&lt;/p&gt;&#xA;&lt;p&gt;Sua mortalidade negada&lt;/p&gt;&#xA;&lt;p&gt;Pronto para viver&lt;/p&gt;&#xA;&lt;p&gt;O infinito&lt;/p&gt;&#xA;&lt;p&gt;O Amar, é poderoso&lt;/p&gt;&#xA;&lt;p&gt;Aprendi na prática&lt;/p&gt;</description>
+      <description>&lt;p&gt;O Amor é poderoso&lt;/p&gt;
+&lt;p&gt;Aprendi na prática&lt;/p&gt;
+&lt;p&gt;Seu poder&lt;/p&gt;
+&lt;p&gt;Devastador&lt;/p&gt;
+&lt;p&gt;E Magnífico&lt;/p&gt;
+&lt;p&gt;Capaz de trazer&lt;/p&gt;
+&lt;p&gt;Ecos infantis em vozes adultas&lt;/p&gt;
+&lt;p&gt;Carentes de atenção e validação&lt;/p&gt;
+&lt;p&gt;Motivação escondida&lt;/p&gt;
+&lt;p&gt;Incapaz de conceber&lt;/p&gt;
+&lt;p&gt;De responsabilizar&lt;/p&gt;
+&lt;p&gt;Sua mortalidade negada&lt;/p&gt;
+&lt;p&gt;Pronto para viver&lt;/p&gt;
+&lt;p&gt;O infinito&lt;/p&gt;
+&lt;p&gt;O Amar, é poderoso&lt;/p&gt;
+&lt;p&gt;Aprendi na prática&lt;/p&gt;</description>
     </item>
     <item>
       <title>Calma</title>
       <link>http://localhost:1313/posts/calma/</link>
       <pubDate>Sat, 24 May 2025 17:05:52 -0300</pubDate>
       <guid>http://localhost:1313/posts/calma/</guid>
-      <description>&lt;p&gt;Acalma-te teu coração, pois o tempo tem seu tempo.&lt;/p&gt;&#xA;&lt;p&gt;Encontre abrigo na tempestade, para que sejas capaz de caminhar quando o sol voltar.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Acalma-te teu coração, pois o tempo tem seu tempo.&lt;/p&gt;
+&lt;p&gt;Encontre abrigo na tempestade, para que sejas capaz de caminhar quando o sol voltar.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Relacionamentos</title>
       <link>http://localhost:1313/posts/relacionamentos/</link>
       <pubDate>Sun, 18 May 2025 17:05:45 -0300</pubDate>
       <guid>http://localhost:1313/posts/relacionamentos/</guid>
-      <description>&lt;p&gt;Relacionamentos&lt;/p&gt;&#xA;&lt;p&gt;Cheios de intenção&lt;/p&gt;&#xA;&lt;p&gt;Trocas inequivalentes&lt;/p&gt;&#xA;&lt;p&gt;Procurando se adequar&lt;/p&gt;&#xA;&lt;p&gt;Se equilibrar em uma balança desleal&lt;/p&gt;&#xA;&lt;p&gt;Uma fina fenda&lt;/p&gt;&#xA;&lt;p&gt;Acumulando ansiedade e pensamentos negativos&lt;/p&gt;&#xA;&lt;p&gt;E a luta é a mesma&lt;/p&gt;&#xA;&lt;p&gt;Procurar não se machucar tanto&lt;/p&gt;&#xA;&lt;p&gt;Negar os sentidos&lt;/p&gt;&#xA;&lt;p&gt;Sentimentos&lt;/p&gt;&#xA;&lt;p&gt;Encapsular a si mesmo&lt;/p&gt;&#xA;&lt;p&gt;Sem que tenham solicitado&lt;/p&gt;&#xA;&lt;p&gt;A balança&lt;/p&gt;&#xA;&lt;p&gt;Desleal&lt;/p&gt;&#xA;&lt;p&gt;Não se importa&lt;/p&gt;</description>
+      <description>&lt;p&gt;Relacionamentos&lt;/p&gt;
+&lt;p&gt;Cheios de intenção&lt;/p&gt;
+&lt;p&gt;Trocas inequivalentes&lt;/p&gt;
+&lt;p&gt;Procurando se adequar&lt;/p&gt;
+&lt;p&gt;Se equilibrar em uma balança desleal&lt;/p&gt;
+&lt;p&gt;Uma fina fenda&lt;/p&gt;
+&lt;p&gt;Acumulando ansiedade e pensamentos negativos&lt;/p&gt;
+&lt;p&gt;E a luta é a mesma&lt;/p&gt;
+&lt;p&gt;Procurar não se machucar tanto&lt;/p&gt;
+&lt;p&gt;Negar os sentidos&lt;/p&gt;
+&lt;p&gt;Sentimentos&lt;/p&gt;
+&lt;p&gt;Encapsular a si mesmo&lt;/p&gt;
+&lt;p&gt;Sem que tenham solicitado&lt;/p&gt;
+&lt;p&gt;A balança&lt;/p&gt;
+&lt;p&gt;Desleal&lt;/p&gt;
+&lt;p&gt;Não se importa&lt;/p&gt;</description>
     </item>
     <item>
       <title>Movimento</title>
       <link>http://localhost:1313/posts/movimento/</link>
       <pubDate>Sun, 02 Mar 2025 17:05:39 -0300</pubDate>
       <guid>http://localhost:1313/posts/movimento/</guid>
-      <description>&lt;p&gt;Finalmente&lt;/p&gt;&#xA;&lt;p&gt;Foi tomada atitude&lt;/p&gt;&#xA;&lt;p&gt;Referente a algo que não fazia mais sentido&lt;/p&gt;&#xA;&lt;p&gt;Mas, mesmo assim, foi feito&lt;/p&gt;&#xA;&lt;p&gt;Por que se tornar algo próprio, quando o universo já se encarrega de pavimentar o que você será&lt;/p&gt;&#xA;&lt;p&gt;A dúvida maior&lt;/p&gt;&#xA;&lt;p&gt;E se&lt;/p&gt;&#xA;&lt;p&gt;Eu tivesse agido de forma mais grosseira&lt;/p&gt;&#xA;&lt;p&gt;Eu tivesse sido mais pacifista&lt;/p&gt;&#xA;&lt;p&gt;Eu permanecesse na ignorância&lt;/p&gt;&#xA;&lt;p&gt;Seria mais feliz?&lt;/p&gt;&#xA;&lt;p&gt;Os universos de escolha são infinitos além dos finitos da imaginação&lt;/p&gt;</description>
+      <description>&lt;p&gt;Finalmente&lt;/p&gt;
+&lt;p&gt;Foi tomada atitude&lt;/p&gt;
+&lt;p&gt;Referente a algo que não fazia mais sentido&lt;/p&gt;
+&lt;p&gt;Mas, mesmo assim, foi feito&lt;/p&gt;
+&lt;p&gt;Por que se tornar algo próprio, quando o universo já se encarrega de pavimentar o que você será&lt;/p&gt;
+&lt;p&gt;A dúvida maior&lt;/p&gt;
+&lt;p&gt;E se&lt;/p&gt;
+&lt;p&gt;Eu tivesse agido de forma mais grosseira&lt;/p&gt;
+&lt;p&gt;Eu tivesse sido mais pacifista&lt;/p&gt;
+&lt;p&gt;Eu permanecesse na ignorância&lt;/p&gt;
+&lt;p&gt;Seria mais feliz?&lt;/p&gt;
+&lt;p&gt;Os universos de escolha são infinitos além dos finitos da imaginação&lt;/p&gt;</description>
     </item>
     <item>
       <title>O Cinza Mais Colorido</title>
       <link>http://localhost:1313/posts/o_cinza_mais_colorido/</link>
       <pubDate>Tue, 24 Sep 2024 17:05:25 -0300</pubDate>
       <guid>http://localhost:1313/posts/o_cinza_mais_colorido/</guid>
-      <description>&lt;p&gt;Qual o significado de tudo isso?&lt;/p&gt;&#xA;&lt;p&gt;A cada dia que passa, afundo-me em pensamentos que não me levam a lugar algum&lt;/p&gt;&#xA;&lt;p&gt;O meu estado de torpor emocional está finalmente se esvaindo por completo&lt;/p&gt;&#xA;&lt;p&gt;Graças a isso, volto ao que eu era&lt;/p&gt;&#xA;&lt;p&gt;Uma pobre alma, perdida, se afogando no meio de um oceano escuro e silencioso&lt;/p&gt;&#xA;&lt;p&gt;Mas não é tão simples&lt;/p&gt;&#xA;&lt;p&gt;Simples seria, ser o que já fui&lt;/p&gt;&#xA;&lt;p&gt;Porventura de minhas experiências, dos momentos bons e ruins que vivi&lt;/p&gt;</description>
+      <description>&lt;p&gt;Qual o significado de tudo isso?&lt;/p&gt;
+&lt;p&gt;A cada dia que passa, afundo-me em pensamentos que não me levam a lugar algum&lt;/p&gt;
+&lt;p&gt;O meu estado de torpor emocional está finalmente se esvaindo por completo&lt;/p&gt;
+&lt;p&gt;Graças a isso, volto ao que eu era&lt;/p&gt;
+&lt;p&gt;Uma pobre alma, perdida, se afogando no meio de um oceano escuro e silencioso&lt;/p&gt;
+&lt;p&gt;Mas não é tão simples&lt;/p&gt;
+&lt;p&gt;Simples seria, ser o que já fui&lt;/p&gt;
+&lt;p&gt;Porventura de minhas experiências, dos momentos bons e ruins que vivi&lt;/p&gt;</description>
     </item>
     <item>
       <title>Eu e Você</title>
       <link>http://localhost:1313/posts/eu_e_voce/</link>
       <pubDate>Fri, 30 Aug 2024 17:05:07 -0300</pubDate>
       <guid>http://localhost:1313/posts/eu_e_voce/</guid>
-      <description>&lt;p&gt;Quem somos?&lt;/p&gt;&#xA;&lt;p&gt;Somos apenas um construto do meio em que fomos criados&lt;/p&gt;&#xA;&lt;p&gt;Nossa personalidade, moldada externamente&lt;/p&gt;&#xA;&lt;p&gt;Em um momento empunhamos espada e escudo&lt;/p&gt;&#xA;&lt;p&gt;Em outro, o cajado e o animal de pastoreio&lt;/p&gt;&#xA;&lt;p&gt;Os papiros e o tinteiro&lt;/p&gt;&#xA;&lt;p&gt;O telefone celular e o cartão de crédito&lt;/p&gt;&#xA;&lt;p&gt;O que é essencial?&lt;/p&gt;&#xA;&lt;p&gt;Precisamos de água, oxigênio e sol. Isso é concreto&lt;/p&gt;&#xA;&lt;p&gt;Mas também, do social&lt;/p&gt;&#xA;&lt;p&gt;Restando então, o convivio&lt;/p&gt;&#xA;&lt;p&gt;Quando você descobriu quem você é?&lt;/p&gt;</description>
+      <description>&lt;p&gt;Quem somos?&lt;/p&gt;
+&lt;p&gt;Somos apenas um construto do meio em que fomos criados&lt;/p&gt;
+&lt;p&gt;Nossa personalidade, moldada externamente&lt;/p&gt;
+&lt;p&gt;Em um momento empunhamos espada e escudo&lt;/p&gt;
+&lt;p&gt;Em outro, o cajado e o animal de pastoreio&lt;/p&gt;
+&lt;p&gt;Os papiros e o tinteiro&lt;/p&gt;
+&lt;p&gt;O telefone celular e o cartão de crédito&lt;/p&gt;
+&lt;p&gt;O que é essencial?&lt;/p&gt;
+&lt;p&gt;Precisamos de água, oxigênio e sol. Isso é concreto&lt;/p&gt;
+&lt;p&gt;Mas também, do social&lt;/p&gt;
+&lt;p&gt;Restando então, o convivio&lt;/p&gt;
+&lt;p&gt;Quando você descobriu quem você é?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Escrevo</title>
       <link>http://localhost:1313/posts/escrevo/</link>
       <pubDate>Wed, 31 Jul 2024 17:05:13 -0300</pubDate>
       <guid>http://localhost:1313/posts/escrevo/</guid>
-      <description>&lt;p&gt;Escrevo para me descobrir&lt;/p&gt;&#xA;&lt;p&gt;Escrevo para desbravar os mundos do meu inconsciente&lt;/p&gt;&#xA;&lt;p&gt;Escrevo para tentar entender&lt;/p&gt;&#xA;&lt;p&gt;Escrevo para recordar&lt;/p&gt;&#xA;&lt;p&gt;Escrevo para contar&lt;/p&gt;&#xA;&lt;p&gt;Escrevo para que um dia veja quem eu fui e tenha orgulho&lt;/p&gt;&#xA;&lt;p&gt;Escrevo para ver o futuro através de um vidro embaçado&lt;/p&gt;&#xA;&lt;p&gt;Escrevo para viajar&lt;/p&gt;&#xA;&lt;p&gt;Escrevo para me encontrar&lt;/p&gt;&#xA;&lt;p&gt;Escrevo para saborear o presente&lt;/p&gt;&#xA;&lt;p&gt;Escrevo para absorver o sol em minha pele&lt;/p&gt;&#xA;&lt;p&gt;Escrevo para presenciar&lt;/p&gt;&#xA;&lt;p&gt;O fato é: hoje, eu escrevi!&lt;/p&gt;</description>
+      <description>&lt;p&gt;Escrevo para me descobrir&lt;/p&gt;
+&lt;p&gt;Escrevo para desbravar os mundos do meu inconsciente&lt;/p&gt;
+&lt;p&gt;Escrevo para tentar entender&lt;/p&gt;
+&lt;p&gt;Escrevo para recordar&lt;/p&gt;
+&lt;p&gt;Escrevo para contar&lt;/p&gt;
+&lt;p&gt;Escrevo para que um dia veja quem eu fui e tenha orgulho&lt;/p&gt;
+&lt;p&gt;Escrevo para ver o futuro através de um vidro embaçado&lt;/p&gt;
+&lt;p&gt;Escrevo para viajar&lt;/p&gt;
+&lt;p&gt;Escrevo para me encontrar&lt;/p&gt;
+&lt;p&gt;Escrevo para saborear o presente&lt;/p&gt;
+&lt;p&gt;Escrevo para absorver o sol em minha pele&lt;/p&gt;
+&lt;p&gt;Escrevo para presenciar&lt;/p&gt;
+&lt;p&gt;O fato é: hoje, eu escrevi!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mais</title>
       <link>http://localhost:1313/posts/mais/</link>
       <pubDate>Sun, 21 Jul 2024 17:04:52 -0300</pubDate>
       <guid>http://localhost:1313/posts/mais/</guid>
-      <description>&lt;p&gt;Eu quero amar novamente.&lt;/p&gt;&#xA;&lt;p&gt;Isso é um fato.&lt;/p&gt;&#xA;&lt;p&gt;Mas como fazer algo que me causará tanta dor?&lt;/p&gt;&#xA;&lt;p&gt;Já morri tantas vezes por confiar, como fazê-lo novamente?&lt;/p&gt;&#xA;&lt;p&gt;A verdade é que não sinto que conseguirei me entregar da mesma forma, não por inteiro.&lt;/p&gt;&#xA;&lt;p&gt;Existirá agora, uma pequena parte que será responsável pela diminuição das perdas.&lt;/p&gt;&#xA;&lt;p&gt;Estarei pronto.&lt;/p&gt;&#xA;&lt;p&gt;Isso foi o que me impediu de morrer tantas vezes mais.&lt;/p&gt;&#xA;&lt;p&gt;Mais e mais.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Eu quero amar novamente.&lt;/p&gt;
+&lt;p&gt;Isso é um fato.&lt;/p&gt;
+&lt;p&gt;Mas como fazer algo que me causará tanta dor?&lt;/p&gt;
+&lt;p&gt;Já morri tantas vezes por confiar, como fazê-lo novamente?&lt;/p&gt;
+&lt;p&gt;A verdade é que não sinto que conseguirei me entregar da mesma forma, não por inteiro.&lt;/p&gt;
+&lt;p&gt;Existirá agora, uma pequena parte que será responsável pela diminuição das perdas.&lt;/p&gt;
+&lt;p&gt;Estarei pronto.&lt;/p&gt;
+&lt;p&gt;Isso foi o que me impediu de morrer tantas vezes mais.&lt;/p&gt;
+&lt;p&gt;Mais e mais.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ancestral</title>
       <link>http://localhost:1313/posts/ancestral/</link>
       <pubDate>Sun, 21 Jul 2024 17:04:47 -0300</pubDate>
       <guid>http://localhost:1313/posts/ancestral/</guid>
-      <description>&lt;p&gt;A inigualável certeza de que tudo pode dar certo e errado ao mesmo tempo.&lt;/p&gt;&#xA;&lt;p&gt;Escrevo para desacelerar.&lt;/p&gt;&#xA;&lt;p&gt;Mas às vezes isso não adianta.&lt;/p&gt;&#xA;&lt;p&gt;Me sinto como uma Ferrari a 200 Km/h. Uma besta fera apenas querendo mais.&lt;/p&gt;&#xA;&lt;p&gt;Como sempre, decisões precisam ser tomadas e cada uma causa uma perda.&lt;/p&gt;&#xA;&lt;p&gt;Como não perder em uma subtração de 2 menos 1?&lt;/p&gt;&#xA;&lt;p&gt;Nesse caso, o melhor é perder para ganhar futuramente.&lt;/p&gt;&#xA;&lt;p&gt;Haverá reajustes, nada fora do que já não havia sido experienciado antes.&lt;/p&gt;</description>
+      <description>&lt;p&gt;A inigualável certeza de que tudo pode dar certo e errado ao mesmo tempo.&lt;/p&gt;
+&lt;p&gt;Escrevo para desacelerar.&lt;/p&gt;
+&lt;p&gt;Mas às vezes isso não adianta.&lt;/p&gt;
+&lt;p&gt;Me sinto como uma Ferrari a 200 Km/h. Uma besta fera apenas querendo mais.&lt;/p&gt;
+&lt;p&gt;Como sempre, decisões precisam ser tomadas e cada uma causa uma perda.&lt;/p&gt;
+&lt;p&gt;Como não perder em uma subtração de 2 menos 1?&lt;/p&gt;
+&lt;p&gt;Nesse caso, o melhor é perder para ganhar futuramente.&lt;/p&gt;
+&lt;p&gt;Haverá reajustes, nada fora do que já não havia sido experienciado antes.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sangrar</title>
       <link>http://localhost:1313/posts/sangrar/</link>
       <pubDate>Sat, 06 Jul 2024 17:04:41 -0300</pubDate>
       <guid>http://localhost:1313/posts/sangrar/</guid>
-      <description>&lt;p&gt;Ao mesmo tempo que tenho sentido a instabilidade emocional, percebo que se trata apenas de meus medos pessoais.&lt;/p&gt;&#xA;&lt;p&gt;Eu me recordo o que um dia senti e percebo a infantilidade da vulnerabilidade&lt;/p&gt;&#xA;&lt;p&gt;Me coloco diversas vezes em situações ilógicas pela emoção ou curiosidade&lt;/p&gt;&#xA;&lt;p&gt;Peco pela emoção.&lt;/p&gt;&#xA;&lt;p&gt;Eu percebo que quero voltar a ser infantil, mas para isso, devo trilhar um longo caminho.&lt;/p&gt;&#xA;&lt;p&gt;Devo crescer muito mais para me vulnerabilizar com segurança.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Ao mesmo tempo que tenho sentido a instabilidade emocional, percebo que se trata apenas de meus medos pessoais.&lt;/p&gt;
+&lt;p&gt;Eu me recordo o que um dia senti e percebo a infantilidade da vulnerabilidade&lt;/p&gt;
+&lt;p&gt;Me coloco diversas vezes em situações ilógicas pela emoção ou curiosidade&lt;/p&gt;
+&lt;p&gt;Peco pela emoção.&lt;/p&gt;
+&lt;p&gt;Eu percebo que quero voltar a ser infantil, mas para isso, devo trilhar um longo caminho.&lt;/p&gt;
+&lt;p&gt;Devo crescer muito mais para me vulnerabilizar com segurança.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rosas</title>
       <link>http://localhost:1313/posts/rosas/</link>
       <pubDate>Sun, 30 Jun 2024 17:04:34 -0300</pubDate>
       <guid>http://localhost:1313/posts/rosas/</guid>
-      <description>&lt;p&gt;É tão incrível o que pode ser feito, juntamente com o que foi dito&lt;/p&gt;&#xA;&lt;p&gt;Tantas ações tomadas, pensadas e tratadas&lt;/p&gt;&#xA;&lt;p&gt;Por uma causa em comum&lt;/p&gt;&#xA;&lt;p&gt;Eu vi o resultado em seu olhar&lt;/p&gt;&#xA;&lt;p&gt;O seu toque me fez lembrar de algo que nunca vivi&lt;/p&gt;&#xA;&lt;p&gt;E me criou lembranças que me forço a esquecer&lt;/p&gt;&#xA;&lt;p&gt;Mas não sou tão forte&lt;/p&gt;&#xA;&lt;p&gt;É uma luta em vão&lt;/p&gt;&#xA;&lt;p&gt;O meu corpo pede algo que nunca mais terei&lt;/p&gt;</description>
+      <description>&lt;p&gt;É tão incrível o que pode ser feito, juntamente com o que foi dito&lt;/p&gt;
+&lt;p&gt;Tantas ações tomadas, pensadas e tratadas&lt;/p&gt;
+&lt;p&gt;Por uma causa em comum&lt;/p&gt;
+&lt;p&gt;Eu vi o resultado em seu olhar&lt;/p&gt;
+&lt;p&gt;O seu toque me fez lembrar de algo que nunca vivi&lt;/p&gt;
+&lt;p&gt;E me criou lembranças que me forço a esquecer&lt;/p&gt;
+&lt;p&gt;Mas não sou tão forte&lt;/p&gt;
+&lt;p&gt;É uma luta em vão&lt;/p&gt;
+&lt;p&gt;O meu corpo pede algo que nunca mais terei&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

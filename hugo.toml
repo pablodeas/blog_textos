@@ -1,44 +1,62 @@
 baseURL = 'https://example.org/'
-languageCode = 'en-us'
+languageCode = 'pt-br'
 title = 'Textos'
-theme = "yinyang"
+theme = "PaperMod"
+copyright = "© [Pablo Andrade](https://www.instagram.com/pablodeas/)"
 DefaultContentLanguage = "pt"
 
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-  [markup.highlight]
-    guessSyntax = true
-    noClasses = true
-    style = "bw"
-    tabWidth = 2
+[taxonomies]
+    category = "categories"
+    tag = "tags"
 
-[author]
-  name = "Pablo"
-  homepage = "https://joway.io/"
-
-[languages]
-  [languages.pt]
-    contentDir = "content/pt"
-    languageName = "Porguês"
+[languages.pt]
+    languageName = "Português"
     weight = 1
+    contentDir = "content/pt"
+
+    [languages.pt.menu]
+        [[languages.pt.menu.main]]
+            name = "Poesia"
+            url = "categories/poesia"
+            weight = 10
+        [[languages.pt.menu.main]]
+            name = "Prosa"
+            url = "categories/prosa"
+            weight = 20
+        [[languages.pt.menu.main]]
+            name = "Conto"
+            url = "categories/conto"
+            weight = 30
+        [[languages.pt.menu.main]]
+            name = "Filtro por Data" # Página que mostra tudo organizado
+            url = "archives"
+            weight = 40
 
 [params]
-mainSections = ["posts"]
-headTitle = "Pablo A."
-#disqus = "pablo" # disqus account name
-#extraHead = '<script async src="https://www.googletagmanager.com/gtag/js?id=UA-xxx"></script>'
+    env = "production"
+    title = "Pablo A."
+    description = "Escritos de Pablo"
+    author = "Pablo"
 
-[[params.socials]]
-name = "Instagram"
-link = "https://www.instagram.com/pablodeas/"
+    # Configurações visuais do PaperMod
+    ShowReadingTime = true
+    ShowShareButtons = true
+    ShowPostNavLinks = true
+    ShowTaxonomies = true
+    ShowBreadCrumbs = true
+    ShowCodeCopyButtons = true
 
-[[params.socials]]
-name = "Github"
-link = "https://github.com/pablodeas"
+    assets = { disableHLJS = false }
+    
+    # Página inicial (Profile Mode como o Yinyang, mas com menu)
+    [params.homeInfoParams]
+        Title = "Pablo Andrade"
+        Content = "Textos Autorais."
 
-postHeaderContent = ""
-postFooterContent = "<br/><br/><p>Subscribe：<a target='_blank' href='https://mailchi.mp/a1a0d59e7a19/joway'>Joway's Blog</a></p>"
-# extraCSSFiles = ["css/foo.css", "css/bar.css"]
-extraCSSFiles = []
+    [[params.socialIcons]]
+        name = "instagram"
+        url = "https://www.instagram.com/pablodeas/"
+
+    [[params.socialIcons]]
+        name = "github"
+        url = "https://github.com/pablodeas"

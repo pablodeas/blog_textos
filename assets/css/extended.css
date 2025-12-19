@@ -1,0 +1,11 @@
+/* Força a cor vermelha nos links dentro do meta do post */
+.post-meta a, .post-meta a:visited {
+    color: #e80909 !important; /* Usamos !important para garantir que vença o padrão do tema */
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.post-meta a:hover {
+    color: #fff !important;
+    text-decoration: underline !important;
+}

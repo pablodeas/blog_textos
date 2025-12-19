@@ -1,19 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Prosa on Textos</title>
     <link>http://localhost:1313/categories/prosa/</link>
     <description>Recent content in Prosa on Textos</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.152.2</generator>
     <language>pt</language>
+    <copyright>Pablo Andrade</copyright>
     <lastBuildDate>Sun, 14 Dec 2025 05:40:32 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/prosa/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Amor_no_seculo_da_putaria</title>
+      <title>Amor no Século da Putaria</title>
       <link>http://localhost:1313/posts/amor_no_seculo_da_putaria/</link>
       <pubDate>Sun, 14 Dec 2025 05:40:32 -0300</pubDate>
       <guid>http://localhost:1313/posts/amor_no_seculo_da_putaria/</guid>
-      <description>&lt;p&gt;Eu sempre tive uma percepção antiquada sobre amor e relacionamento.&lt;/p&gt;&#xA;&lt;p&gt;Talvez por ter tido um excelente exemplo em casa.&lt;/p&gt;&#xA;&lt;p&gt;Talvez pela influência midiática da época.&lt;/p&gt;&#xA;&lt;p&gt;Sempre gostei de assistir filmes, seriados. Indiretamente eles acabam impactando na nossa visão de mundo.&lt;/p&gt;&#xA;&lt;p&gt;Eu me via como um paladino. Encontraria a minha donzela encantada e a partir daquele momento, seria seu protetor para todo o sempre.&lt;/p&gt;&#xA;&lt;p&gt;Obviamente eu estava errado.&lt;/p&gt;&#xA;&lt;p&gt;Não sobre existirem donzelas encantadas. Mas por ser um assunto mais complexo do que apenas essa visão binária.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Eu sempre tive uma percepção antiquada sobre amor e relacionamento.&lt;/p&gt;
+&lt;p&gt;Talvez por ter tido um excelente exemplo em casa.&lt;/p&gt;
+&lt;p&gt;Talvez pela influência midiática da época.&lt;/p&gt;
+&lt;p&gt;Sempre gostei de assistir filmes, seriados. Indiretamente eles acabam impactando na nossa visão de mundo.&lt;/p&gt;
+&lt;p&gt;Eu me via como um paladino. Encontraria a minha donzela encantada e a partir daquele momento, seria seu protetor para todo o sempre.&lt;/p&gt;
+&lt;p&gt;Obviamente eu estava errado.&lt;/p&gt;
+&lt;p&gt;Não sobre existirem donzelas encantadas. Mas por ser um assunto mais complexo do que apenas essa visão binária.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

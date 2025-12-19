@@ -1,0 +1,25 @@
+{{- $meta := slice -}}
+
+{{- if not .Date.IsZero -}}
+    {{- $meta = $meta | append (.Date | time.Format (default "January 2, 2006" site.Params.DateFormat)) -}}
+{{- end -}}
+
+{{- if (.Param "ShowReadingTime") -}}
+    {{- $meta = $meta | append (i18n "read_time" .ReadingTime | default (printf "%d min" .ReadingTime)) -}}
+{{- end -}}
+
+{{- if (.Param "ShowAuthor") -}}
+    {{- $meta = $meta | append (partial "author.html" .) -}}
+{{- end -}}
+
+{{- /* Adicionando as Categorias */ -}}
+{{- if .Params.categories -}}
+    {{- range .Params.categories -}}
+        {{- $url := printf "categories/%s" (. | urlize) -}}
+        {{- $meta = $meta | append (printf "<a href='%s'>#%s</a>" ($url | relURL) .) -}}
+    {{- end -}}
+{{- end -}}
+
+{{- with $meta -}}
+    {{- delimit . "&nbsp;·&nbsp;" | safeHTML -}}
+{{- end -}}
