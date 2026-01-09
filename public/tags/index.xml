@@ -4,8 +4,8 @@
     <title>Tags on Textos</title>
     <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Textos</description>
-    <generator>Hugo -- 0.152.2</generator>
-    <language>pt</language>
+    <generator>Hugo -- 0.154.2</generator>
+    <language>pt-br</language>
     <copyright>Pablo Andrade</copyright>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>

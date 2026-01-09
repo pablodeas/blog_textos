@@ -4,11 +4,25 @@
     <title>Posts on Textos</title>
     <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Textos</description>
-    <generator>Hugo -- 0.152.2</generator>
-    <language>pt</language>
+    <generator>Hugo -- 0.154.2</generator>
+    <language>pt-br</language>
     <copyright>Pablo Andrade</copyright>
-    <lastBuildDate>Sun, 14 Dec 2025 05:40:32 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jan 2026 14:43:20 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bom Senso</title>
+      <link>http://localhost:1313/posts/bom_senso/</link>
+      <pubDate>Fri, 09 Jan 2026 14:43:20 -0300</pubDate>
+      <guid>http://localhost:1313/posts/bom_senso/</guid>
+      <description>&lt;p&gt;Recentemente, uma amiga disse algo que ficou em minha mente.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;“Às vezes, o óbvio precisa SIM ser dito em voz alta.”&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Isso me fez pensar no quão simples e complexo essa afirmação é.&lt;/p&gt;
+&lt;p&gt;Pois devemos pensar que, o óbvio para um indivíduo, não é o mesmo para outro.&lt;/p&gt;
+&lt;p&gt;Sendo esse o caso, por que disso?&lt;/p&gt;
+&lt;p&gt;Além dos meus devaneios, seria necessário uma pesquisa mais a fundo para responder esta questão.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Amor no Século da Putaria</title>
       <link>http://localhost:1313/posts/amor_no_seculo_da_putaria/</link>
