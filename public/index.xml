@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Textos</title>
-    <link>http://localhost:1313/</link>
+    <link>https://example.org/</link>
     <description>Recent content on Textos</description>
     <generator>Hugo -- 0.154.2</generator>
     <language>pt-br</language>
     <copyright>Pablo Andrade</copyright>
     <lastBuildDate>Tue, 27 Jan 2026 01:55:04 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reflexões Travessas</title>
-      <link>http://localhost:1313/posts/reflexoes_travessas/</link>
+      <link>https://example.org/posts/reflexoes_travessas/</link>
       <pubDate>Tue, 27 Jan 2026 01:55:04 -0300</pubDate>
-      <guid>http://localhost:1313/posts/reflexoes_travessas/</guid>
+      <guid>https://example.org/posts/reflexoes_travessas/</guid>
       <description>&lt;p&gt;Eu penso demais.&lt;/p&gt;
 &lt;p&gt;Muito mesmo.&lt;/p&gt;
 &lt;p&gt;Eu penso muito e normalmente não chego a conclusões definitivas.&lt;/p&gt;
@@ -30,9 +30,9 @@
     </item>
     <item>
       <title>Bom Senso</title>
-      <link>http://localhost:1313/posts/bom_senso/</link>
+      <link>https://example.org/posts/bom_senso/</link>
       <pubDate>Fri, 09 Jan 2026 14:43:20 -0300</pubDate>
-      <guid>http://localhost:1313/posts/bom_senso/</guid>
+      <guid>https://example.org/posts/bom_senso/</guid>
       <description>&lt;p&gt;Recentemente, uma amiga disse algo que ficou em minha mente.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;“Às vezes, o óbvio precisa SIM ser dito em voz alta.”&lt;/li&gt;
@@ -44,9 +44,9 @@
     </item>
     <item>
       <title>Amor no Século da Putaria</title>
-      <link>http://localhost:1313/posts/amor_no_seculo_da_putaria/</link>
+      <link>https://example.org/posts/amor_no_seculo_da_putaria/</link>
       <pubDate>Sun, 14 Dec 2025 05:40:32 -0300</pubDate>
-      <guid>http://localhost:1313/posts/amor_no_seculo_da_putaria/</guid>
+      <guid>https://example.org/posts/amor_no_seculo_da_putaria/</guid>
       <description>&lt;p&gt;Eu sempre tive uma percepção antiquada sobre amor e relacionamento.&lt;/p&gt;
 &lt;p&gt;Talvez por ter tido um excelente exemplo em casa.&lt;/p&gt;
 &lt;p&gt;Talvez pela influência midiática da época.&lt;/p&gt;
@@ -57,9 +57,9 @@
     </item>
     <item>
       <title>Lembranças Confusas</title>
-      <link>http://localhost:1313/posts/lembrancas_confusas/</link>
+      <link>https://example.org/posts/lembrancas_confusas/</link>
       <pubDate>Fri, 28 Nov 2025 17:31:52 -0300</pubDate>
-      <guid>http://localhost:1313/posts/lembrancas_confusas/</guid>
+      <guid>https://example.org/posts/lembrancas_confusas/</guid>
       <description>&lt;p&gt;O constante desejo de cometer erros.&lt;/p&gt;
 &lt;p&gt;Questões já solucionadas.&lt;/p&gt;
 &lt;p&gt;Novos problemas.&lt;/p&gt;
@@ -75,9 +75,9 @@
     </item>
     <item>
       <title>Suficiente</title>
-      <link>http://localhost:1313/posts/suficiente/</link>
+      <link>https://example.org/posts/suficiente/</link>
       <pubDate>Tue, 11 Nov 2025 10:31:16 -0300</pubDate>
-      <guid>http://localhost:1313/posts/suficiente/</guid>
+      <guid>https://example.org/posts/suficiente/</guid>
       <description>&lt;p&gt;Nada como um dia após o outro.&lt;/p&gt;
 &lt;p&gt;Nada como aprender com as experiências.&lt;/p&gt;
 &lt;p&gt;Nada como crescer.&lt;/p&gt;
@@ -95,9 +95,9 @@
     </item>
     <item>
       <title>Um Dia Ruim</title>
-      <link>http://localhost:1313/posts/um_dia_ruim/</link>
+      <link>https://example.org/posts/um_dia_ruim/</link>
       <pubDate>Tue, 14 Oct 2025 18:42:06 -0300</pubDate>
-      <guid>http://localhost:1313/posts/um_dia_ruim/</guid>
+      <guid>https://example.org/posts/um_dia_ruim/</guid>
       <description>&lt;h2 id=&#34;1&#34;&gt;1&lt;/h2&gt;
 &lt;p&gt;&lt;em&gt;Sábado, 19:55.&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -112,9 +112,9 @@
     </item>
     <item>
       <title>Falhar</title>
-      <link>http://localhost:1313/posts/falhar/</link>
+      <link>https://example.org/posts/falhar/</link>
       <pubDate>Sat, 11 Oct 2025 04:26:54 -0300</pubDate>
-      <guid>http://localhost:1313/posts/falhar/</guid>
+      <guid>https://example.org/posts/falhar/</guid>
       <description>&lt;p&gt;Talvez devêssemos falhar com mais frequência.&lt;/p&gt;
 &lt;p&gt;Não que falhar já não faça parte da nossa vida, mas deveríamos falhar mais ainda.&lt;/p&gt;
 &lt;p&gt;Falhar em mais áreas diferentes, para que possamos ser recompensados quando conseguirmos alcançar o sucesso.&lt;/p&gt;
@@ -124,9 +124,9 @@
     </item>
     <item>
       <title>Erro</title>
-      <link>http://localhost:1313/posts/erro/</link>
+      <link>https://example.org/posts/erro/</link>
       <pubDate>Mon, 06 Oct 2025 05:07:08 -0300</pubDate>
-      <guid>http://localhost:1313/posts/erro/</guid>
+      <guid>https://example.org/posts/erro/</guid>
       <description>&lt;p&gt;O que pode ser aprendido com os erros, senão como cometê-los de forma mais dolorosa.&lt;/p&gt;
 &lt;p&gt;Escutar é confusão.&lt;/p&gt;
 &lt;p&gt;Omissão travestida de conselho.&lt;/p&gt;
@@ -144,9 +144,9 @@
     </item>
     <item>
       <title>Peso</title>
-      <link>http://localhost:1313/posts/peso/</link>
+      <link>https://example.org/posts/peso/</link>
       <pubDate>Thu, 25 Sep 2025 05:39:36 -0300</pubDate>
-      <guid>http://localhost:1313/posts/peso/</guid>
+      <guid>https://example.org/posts/peso/</guid>
       <description>&lt;p&gt;Ponderar, pesa&lt;/p&gt;
 &lt;p&gt;Melancolia percorre meus nervos&lt;/p&gt;
 &lt;p&gt;Me deixando dormente&lt;/p&gt;
@@ -167,9 +167,9 @@
     </item>
     <item>
       <title>Palavras</title>
-      <link>http://localhost:1313/posts/palavras/</link>
+      <link>https://example.org/posts/palavras/</link>
       <pubDate>Mon, 30 Jun 2025 17:06:01 -0300</pubDate>
-      <guid>http://localhost:1313/posts/palavras/</guid>
+      <guid>https://example.org/posts/palavras/</guid>
       <description>&lt;p&gt;Palavras constroem,&lt;/p&gt;
 &lt;p&gt;destroem.&lt;/p&gt;
 &lt;p&gt;Curam,&lt;/p&gt;
@@ -186,9 +186,9 @@
     </item>
     <item>
       <title>Arma</title>
-      <link>http://localhost:1313/posts/arma/</link>
+      <link>https://example.org/posts/arma/</link>
       <pubDate>Sun, 01 Jun 2025 17:05:56 -0300</pubDate>
-      <guid>http://localhost:1313/posts/arma/</guid>
+      <guid>https://example.org/posts/arma/</guid>
       <description>&lt;p&gt;O Amor é poderoso&lt;/p&gt;
 &lt;p&gt;Aprendi na prática&lt;/p&gt;
 &lt;p&gt;Seu poder&lt;/p&gt;
@@ -208,17 +208,17 @@
     </item>
     <item>
       <title>Calma</title>
-      <link>http://localhost:1313/posts/calma/</link>
+      <link>https://example.org/posts/calma/</link>
       <pubDate>Sat, 24 May 2025 17:05:52 -0300</pubDate>
-      <guid>http://localhost:1313/posts/calma/</guid>
+      <guid>https://example.org/posts/calma/</guid>
       <description>&lt;p&gt;Acalma-te teu coração, pois o tempo tem seu tempo.&lt;/p&gt;
 &lt;p&gt;Encontre abrigo na tempestade, para que sejas capaz de caminhar quando o sol voltar.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Relacionamentos</title>
-      <link>http://localhost:1313/posts/relacionamentos/</link>
+      <link>https://example.org/posts/relacionamentos/</link>
       <pubDate>Sun, 18 May 2025 17:05:45 -0300</pubDate>
-      <guid>http://localhost:1313/posts/relacionamentos/</guid>
+      <guid>https://example.org/posts/relacionamentos/</guid>
       <description>&lt;p&gt;Relacionamentos&lt;/p&gt;
 &lt;p&gt;Cheios de intenção&lt;/p&gt;
 &lt;p&gt;Trocas inequivalentes&lt;/p&gt;
@@ -238,9 +238,9 @@
     </item>
     <item>
       <title>Movimento</title>
-      <link>http://localhost:1313/posts/movimento/</link>
+      <link>https://example.org/posts/movimento/</link>
       <pubDate>Sun, 02 Mar 2025 17:05:39 -0300</pubDate>
-      <guid>http://localhost:1313/posts/movimento/</guid>
+      <guid>https://example.org/posts/movimento/</guid>
       <description>&lt;p&gt;Finalmente&lt;/p&gt;
 &lt;p&gt;Foi tomada atitude&lt;/p&gt;
 &lt;p&gt;Referente a algo que não fazia mais sentido&lt;/p&gt;
@@ -256,9 +256,9 @@
     </item>
     <item>
       <title>O Cinza Mais Colorido</title>
-      <link>http://localhost:1313/posts/o_cinza_mais_colorido/</link>
+      <link>https://example.org/posts/o_cinza_mais_colorido/</link>
       <pubDate>Tue, 24 Sep 2024 17:05:25 -0300</pubDate>
-      <guid>http://localhost:1313/posts/o_cinza_mais_colorido/</guid>
+      <guid>https://example.org/posts/o_cinza_mais_colorido/</guid>
       <description>&lt;p&gt;Qual o significado de tudo isso?&lt;/p&gt;
 &lt;p&gt;A cada dia que passa, afundo-me em pensamentos que não me levam a lugar algum&lt;/p&gt;
 &lt;p&gt;O meu estado de torpor emocional está finalmente se esvaindo por completo&lt;/p&gt;
@@ -270,9 +270,9 @@
     </item>
     <item>
       <title>Eu e Você</title>
-      <link>http://localhost:1313/posts/eu_e_voce/</link>
+      <link>https://example.org/posts/eu_e_voce/</link>
       <pubDate>Fri, 30 Aug 2024 17:05:07 -0300</pubDate>
-      <guid>http://localhost:1313/posts/eu_e_voce/</guid>
+      <guid>https://example.org/posts/eu_e_voce/</guid>
       <description>&lt;p&gt;Quem somos?&lt;/p&gt;
 &lt;p&gt;Somos apenas um construto do meio em que fomos criados&lt;/p&gt;
 &lt;p&gt;Nossa personalidade, moldada externamente&lt;/p&gt;
@@ -288,9 +288,9 @@
     </item>
     <item>
       <title>Escrevo</title>
-      <link>http://localhost:1313/posts/escrevo/</link>
+      <link>https://example.org/posts/escrevo/</link>
       <pubDate>Wed, 31 Jul 2024 17:05:13 -0300</pubDate>
-      <guid>http://localhost:1313/posts/escrevo/</guid>
+      <guid>https://example.org/posts/escrevo/</guid>
       <description>&lt;p&gt;Escrevo para me descobrir&lt;/p&gt;
 &lt;p&gt;Escrevo para desbravar os mundos do meu inconsciente&lt;/p&gt;
 &lt;p&gt;Escrevo para tentar entender&lt;/p&gt;
@@ -307,9 +307,9 @@
     </item>
     <item>
       <title>Mais</title>
-      <link>http://localhost:1313/posts/mais/</link>
+      <link>https://example.org/posts/mais/</link>
       <pubDate>Sun, 21 Jul 2024 17:04:52 -0300</pubDate>
-      <guid>http://localhost:1313/posts/mais/</guid>
+      <guid>https://example.org/posts/mais/</guid>
       <description>&lt;p&gt;Eu quero amar novamente.&lt;/p&gt;
 &lt;p&gt;Isso é um fato.&lt;/p&gt;
 &lt;p&gt;Mas como fazer algo que me causará tanta dor?&lt;/p&gt;
@@ -322,9 +322,9 @@
     </item>
     <item>
       <title>Ancestral</title>
-      <link>http://localhost:1313/posts/ancestral/</link>
+      <link>https://example.org/posts/ancestral/</link>
       <pubDate>Sun, 21 Jul 2024 17:04:47 -0300</pubDate>
-      <guid>http://localhost:1313/posts/ancestral/</guid>
+      <guid>https://example.org/posts/ancestral/</guid>
       <description>&lt;p&gt;A inigualável certeza de que tudo pode dar certo e errado ao mesmo tempo.&lt;/p&gt;
 &lt;p&gt;Escrevo para desacelerar.&lt;/p&gt;
 &lt;p&gt;Mas às vezes isso não adianta.&lt;/p&gt;
@@ -336,9 +336,9 @@
     </item>
     <item>
       <title>Sangrar</title>
-      <link>http://localhost:1313/posts/sangrar/</link>
+      <link>https://example.org/posts/sangrar/</link>
       <pubDate>Sat, 06 Jul 2024 17:04:41 -0300</pubDate>
-      <guid>http://localhost:1313/posts/sangrar/</guid>
+      <guid>https://example.org/posts/sangrar/</guid>
       <description>&lt;p&gt;Ao mesmo tempo que tenho sentido a instabilidade emocional, percebo que se trata apenas de meus medos pessoais.&lt;/p&gt;
 &lt;p&gt;Eu me recordo o que um dia senti e percebo a infantilidade da vulnerabilidade&lt;/p&gt;
 &lt;p&gt;Me coloco diversas vezes em situações ilógicas pela emoção ou curiosidade&lt;/p&gt;
@@ -348,9 +348,9 @@
     </item>
     <item>
       <title>Rosas</title>
-      <link>http://localhost:1313/posts/rosas/</link>
+      <link>https://example.org/posts/rosas/</link>
       <pubDate>Sun, 30 Jun 2024 17:04:34 -0300</pubDate>
-      <guid>http://localhost:1313/posts/rosas/</guid>
+      <guid>https://example.org/posts/rosas/</guid>
       <description>&lt;p&gt;É tão incrível o que pode ser feito, juntamente com o que foi dito&lt;/p&gt;
 &lt;p&gt;Tantas ações tomadas, pensadas e tratadas&lt;/p&gt;
 &lt;p&gt;Por uma causa em comum&lt;/p&gt;

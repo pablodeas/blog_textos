@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Textos</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://example.org/categories/</link>
     <description>Recent content in Categories on Textos</description>
     <generator>Hugo -- 0.154.2</generator>
     <language>pt-br</language>
     <copyright>Pablo Andrade</copyright>
     <lastBuildDate>Tue, 27 Jan 2026 01:55:04 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Prosa</title>
-      <link>http://localhost:1313/categories/prosa/</link>
+      <link>https://example.org/categories/prosa/</link>
       <pubDate>Tue, 27 Jan 2026 01:55:04 -0300</pubDate>
-      <guid>http://localhost:1313/categories/prosa/</guid>
+      <guid>https://example.org/categories/prosa/</guid>
       <description></description>
     </item>
     <item>
       <title>Poesia</title>
-      <link>http://localhost:1313/categories/poesia/</link>
+      <link>https://example.org/categories/poesia/</link>
       <pubDate>Fri, 28 Nov 2025 17:31:52 -0300</pubDate>
-      <guid>http://localhost:1313/categories/poesia/</guid>
+      <guid>https://example.org/categories/poesia/</guid>
       <description></description>
     </item>
     <item>
       <title>Conto</title>
-      <link>http://localhost:1313/categories/conto/</link>
+      <link>https://example.org/categories/conto/</link>
       <pubDate>Tue, 14 Oct 2025 18:42:06 -0300</pubDate>
-      <guid>http://localhost:1313/categories/conto/</guid>
+      <guid>https://example.org/categories/conto/</guid>
       <description></description>
     </item>
     <item>
       <title>Drama</title>
-      <link>http://localhost:1313/categories/drama/</link>
+      <link>https://example.org/categories/drama/</link>
       <pubDate>Tue, 14 Oct 2025 18:42:06 -0300</pubDate>
-      <guid>http://localhost:1313/categories/drama/</guid>
+      <guid>https://example.org/categories/drama/</guid>
       <description></description>
     </item>
     <item>
       <title>Suspense</title>
-      <link>http://localhost:1313/categories/suspense/</link>
+      <link>https://example.org/categories/suspense/</link>
       <pubDate>Tue, 14 Oct 2025 18:42:06 -0300</pubDate>
-      <guid>http://localhost:1313/categories/suspense/</guid>
+      <guid>https://example.org/categories/suspense/</guid>
       <description></description>
     </item>
     <item>
       <title>Pensamento</title>
-      <link>http://localhost:1313/categories/pensamento/</link>
+      <link>https://example.org/categories/pensamento/</link>
       <pubDate>Sat, 11 Oct 2025 04:26:54 -0300</pubDate>
-      <guid>http://localhost:1313/categories/pensamento/</guid>
+      <guid>https://example.org/categories/pensamento/</guid>
       <description></description>
     </item>
   </channel>
