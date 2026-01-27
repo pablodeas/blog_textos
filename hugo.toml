@@ -38,6 +38,8 @@ DefaultContentLanguage = "pt"
     description = "Escritos de Pablo"
     author = "Pablo"
 
+    googleAnalytics = "G-7W7PLMK08D"
+
     # Configurações visuais do PaperMod
     ShowReadingTime = true
     ShowShareButtons = true
