@@ -7,8 +7,22 @@
     <generator>Hugo -- 0.154.2</generator>
     <language>pt-br</language>
     <copyright>Pablo Andrade</copyright>
-    <lastBuildDate>Tue, 27 Jan 2026 01:55:04 -0300</lastBuildDate>
+    <lastBuildDate>Sat, 31 Jan 2026 03:08:53 -0300</lastBuildDate>
     <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Consciência</title>
+      <link>https://example.org/posts/consciencia/</link>
+      <pubDate>Sat, 31 Jan 2026 03:08:53 -0300</pubDate>
+      <guid>https://example.org/posts/consciencia/</guid>
+      <description>&lt;p&gt;Ter consciência de si mesmo é cansativo.&lt;/p&gt;
+&lt;p&gt;Tantas alterações no dia a dia.&lt;/p&gt;
+&lt;p&gt;Tantos novos estímulos, positivos ou negativos.&lt;/p&gt;
+&lt;p&gt;Mudando o nosso comportamento de forma passiva.&lt;/p&gt;
+&lt;p&gt;O corpo humano é uma máquina ativa e reativa.&lt;/p&gt;
+&lt;p&gt;Agimos pela vontade e reagimos de acordo com a exposição ao novo.&lt;/p&gt;
+&lt;p&gt;Às vezes o dia nem estava tão cheio de atividades estressantes, mas no final a mente está esgotada.&lt;/p&gt;
+&lt;p&gt;Preocupações presas que consomem a energia vital.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Reflexões Travessas</title>
       <link>https://example.org/posts/reflexoes_travessas/</link>
