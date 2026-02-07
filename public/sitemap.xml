@@ -3,21 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://example.org/categories/</loc>
-    <lastmod>2026-01-31T03:08:53-03:00</lastmod>
+    <lastmod>2026-02-07T15:42:48-03:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/</loc>
+    <lastmod>2026-02-07T15:42:48-03:00</lastmod>
+  </url><url>
+    <loc>https://example.org/categories/prosa/</loc>
+    <lastmod>2026-02-07T15:42:48-03:00</lastmod>
+  </url><url>
+    <loc>https://example.org/</loc>
+    <lastmod>2026-02-07T15:42:48-03:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/tudo_bem/</loc>
+    <lastmod>2026-02-07T15:42:48-03:00</lastmod>
   </url><url>
     <loc>https://example.org/posts/consciencia/</loc>
     <lastmod>2026-01-31T03:08:53-03:00</lastmod>
   </url><url>
     <loc>https://example.org/categories/poesia/</loc>
-    <lastmod>2026-01-31T03:08:53-03:00</lastmod>
-  </url><url>
-    <loc>https://example.org/posts/</loc>
-    <lastmod>2026-01-31T03:08:53-03:00</lastmod>
-  </url><url>
-    <loc>https://example.org/categories/prosa/</loc>
-    <lastmod>2026-01-31T03:08:53-03:00</lastmod>
-  </url><url>
-    <loc>https://example.org/</loc>
     <lastmod>2026-01-31T03:08:53-03:00</lastmod>
   </url><url>
     <loc>https://example.org/posts/reflexoes_travessas/</loc>

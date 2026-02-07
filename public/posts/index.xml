@@ -7,8 +7,26 @@
     <generator>Hugo -- 0.154.2</generator>
     <language>pt-br</language>
     <copyright>Pablo Andrade</copyright>
-    <lastBuildDate>Sat, 31 Jan 2026 03:08:53 -0300</lastBuildDate>
+    <lastBuildDate>Sat, 07 Feb 2026 15:42:48 -0300</lastBuildDate>
     <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tudo bem?</title>
+      <link>https://example.org/posts/tudo_bem/</link>
+      <pubDate>Sat, 07 Feb 2026 15:42:48 -0300</pubDate>
+      <guid>https://example.org/posts/tudo_bem/</guid>
+      <description>&lt;p&gt;Me questionaram recentemente:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Quanto tempo que você não se sente bem, de fato?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Eu fiquei com essa pergunta na cabeça.&lt;/p&gt;
+&lt;p&gt;Como responder isso?&lt;/p&gt;
+&lt;p&gt;Como saber o que, de fato, é se sentir bem?&lt;/p&gt;
+&lt;p&gt;Eu consigo pensar apenas em sentimentos.&lt;/p&gt;
+&lt;p&gt;Lembro de momentos em que senti paixão, amor.&lt;/p&gt;
+&lt;p&gt;Momentos onde senti que havia cumprido o meu dever.&lt;/p&gt;
+&lt;p&gt;Possuir esses sentimentos, seria então o denominante de estar bem?&lt;/p&gt;
+&lt;p&gt;Sendo assim, “estar bem” é nada mais do que passageiro.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Consciência</title>
       <link>https://example.org/posts/consciencia/</link>
