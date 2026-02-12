@@ -7,8 +7,24 @@
     <generator>Hugo -- 0.154.2</generator>
     <language>pt-br</language>
     <copyright>Pablo Andrade</copyright>
-    <lastBuildDate>Sat, 07 Feb 2026 15:42:48 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 05:23:08 -0300</lastBuildDate>
     <atom:link href="https://example.org/categories/prosa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vida Estranha</title>
+      <link>https://example.org/posts/vida_estranha/</link>
+      <pubDate>Thu, 12 Feb 2026 05:23:08 -0300</pubDate>
+      <guid>https://example.org/posts/vida_estranha/</guid>
+      <description>&lt;p&gt;A vida é estranha.&lt;/p&gt;
+&lt;p&gt;Por isso, me reconforto no &amp;ldquo;viver o agora&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Não se prender com o que será depois.&lt;/p&gt;
+&lt;p&gt;O importante é viver de forma agradável e justa.&lt;/p&gt;
+&lt;p&gt;Seja qual for a sua justiça.&lt;/p&gt;
+&lt;p&gt;Uma vida de experiências, as máximas possíveis.&lt;/p&gt;
+&lt;p&gt;Evitando as ruins, obviamente.&lt;/p&gt;
+&lt;p&gt;Para que no final, não haja arrependimentos do que foi e do que poderia ter sido.&lt;/p&gt;
+&lt;p&gt;O que foi, foi.&lt;/p&gt;
+&lt;p&gt;E o que poderia, não será.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Tudo bem?</title>
       <link>https://example.org/posts/tudo_bem/</link>
