@@ -7,20 +7,20 @@
     <generator>Hugo -- 0.154.2</generator>
     <language>pt-br</language>
     <copyright>Pablo Andrade</copyright>
-    <lastBuildDate>Sun, 29 Mar 2026 14:26:54 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 20:34:04 -0300</lastBuildDate>
     <atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prosa</title>
+      <link>https://example.org/categories/prosa/</link>
+      <pubDate>Thu, 02 Apr 2026 20:34:04 -0300</pubDate>
+      <guid>https://example.org/categories/prosa/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Conto</title>
       <link>https://example.org/categories/conto/</link>
       <pubDate>Sun, 29 Mar 2026 14:26:54 -0300</pubDate>
       <guid>https://example.org/categories/conto/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Prosa</title>
-      <link>https://example.org/categories/prosa/</link>
-      <pubDate>Thu, 12 Feb 2026 05:23:08 -0300</pubDate>
-      <guid>https://example.org/categories/prosa/</guid>
       <description></description>
     </item>
     <item>
