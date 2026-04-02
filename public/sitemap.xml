@@ -8,10 +8,13 @@
     <loc>https://example.org/posts/desconforto/</loc>
     <lastmod>2026-04-02T20:34:04-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/</loc>
+    <loc>https://example.org/categories/poema/</loc>
     <lastmod>2026-04-02T20:34:04-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/prosa/</loc>
+    <loc>https://example.org/categories/poesia/</loc>
+    <lastmod>2026-04-02T20:34:04-03:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/</loc>
     <lastmod>2026-04-02T20:34:04-03:00</lastmod>
   </url><url>
     <loc>https://example.org/</loc>
@@ -23,6 +26,9 @@
     <loc>https://example.org/posts/um_agradavel_fim/</loc>
     <lastmod>2026-03-29T14:26:54-03:00</lastmod>
   </url><url>
+    <loc>https://example.org/categories/prosa/</loc>
+    <lastmod>2026-02-12T05:23:08-03:00</lastmod>
+  </url><url>
     <loc>https://example.org/posts/vida_estranha/</loc>
     <lastmod>2026-02-12T05:23:08-03:00</lastmod>
   </url><url>
@@ -30,9 +36,6 @@
     <lastmod>2026-02-07T15:42:48-03:00</lastmod>
   </url><url>
     <loc>https://example.org/posts/consciencia/</loc>
-    <lastmod>2026-01-31T03:08:53-03:00</lastmod>
-  </url><url>
-    <loc>https://example.org/categories/poesia/</loc>
     <lastmod>2026-01-31T03:08:53-03:00</lastmod>
   </url><url>
     <loc>https://example.org/posts/reflexoes_travessas/</loc>

@@ -2,7 +2,7 @@
 title = 'Desconforto'
 date = 2026-04-02T20:34:04-03:00
 draft = false
-categories = ['Prosa']
+categories = ['Poesia', 'Poema']
 +++
 
 Pereço no desconforto de minha vida.

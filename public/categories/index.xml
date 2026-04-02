@@ -10,10 +10,17 @@
     <lastBuildDate>Thu, 02 Apr 2026 20:34:04 -0300</lastBuildDate>
     <atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Prosa</title>
-      <link>https://example.org/categories/prosa/</link>
+      <title>Poema</title>
+      <link>https://example.org/categories/poema/</link>
       <pubDate>Thu, 02 Apr 2026 20:34:04 -0300</pubDate>
-      <guid>https://example.org/categories/prosa/</guid>
+      <guid>https://example.org/categories/poema/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Poesia</title>
+      <link>https://example.org/categories/poesia/</link>
+      <pubDate>Thu, 02 Apr 2026 20:34:04 -0300</pubDate>
+      <guid>https://example.org/categories/poesia/</guid>
       <description></description>
     </item>
     <item>
@@ -24,10 +31,10 @@
       <description></description>
     </item>
     <item>
-      <title>Poesia</title>
-      <link>https://example.org/categories/poesia/</link>
-      <pubDate>Sat, 31 Jan 2026 03:08:53 -0300</pubDate>
-      <guid>https://example.org/categories/poesia/</guid>
+      <title>Prosa</title>
+      <link>https://example.org/categories/prosa/</link>
+      <pubDate>Thu, 12 Feb 2026 05:23:08 -0300</pubDate>
+      <guid>https://example.org/categories/prosa/</guid>
       <description></description>
     </item>
     <item>
