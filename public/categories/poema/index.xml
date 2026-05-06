@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Poema on Textos</title>
-    <link>https://example.org/categories/poema/</link>
+    <link>http://localhost:1313/categories/poema/</link>
     <description>Recent content in Poema on Textos</description>
     <generator>Hugo -- 0.154.2</generator>
     <language>pt-br</language>
     <copyright>Pablo Andrade</copyright>
     <lastBuildDate>Thu, 02 Apr 2026 20:34:04 -0300</lastBuildDate>
-    <atom:link href="https://example.org/categories/poema/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/poema/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Desconforto</title>
-      <link>https://example.org/posts/desconforto/</link>
+      <link>http://localhost:1313/posts/desconforto/</link>
       <pubDate>Thu, 02 Apr 2026 20:34:04 -0300</pubDate>
-      <guid>https://example.org/posts/desconforto/</guid>
+      <guid>http://localhost:1313/posts/desconforto/</guid>
       <description>&lt;p&gt;Pereço no desconforto de minha vida.&lt;/p&gt;
 &lt;p&gt;As ondas inconstantes.&lt;/p&gt;
 &lt;p&gt;Persistentes.&lt;/p&gt;

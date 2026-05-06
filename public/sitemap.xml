@@ -2,116 +2,119 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2026-05-05T22:55:40-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/ilusorio/</loc>
+    <lastmod>2026-05-05T22:55:40-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/poesia/</loc>
+    <lastmod>2026-05-05T22:55:40-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-05-05T22:55:40-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/prosa/</loc>
+    <lastmod>2026-05-05T22:55:40-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-05-05T22:55:40-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/desconforto/</loc>
     <lastmod>2026-04-02T20:34:04-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/desconforto/</loc>
+    <loc>http://localhost:1313/categories/poema/</loc>
     <lastmod>2026-04-02T20:34:04-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/poema/</loc>
-    <lastmod>2026-04-02T20:34:04-03:00</lastmod>
-  </url><url>
-    <loc>https://example.org/categories/poesia/</loc>
-    <lastmod>2026-04-02T20:34:04-03:00</lastmod>
-  </url><url>
-    <loc>https://example.org/posts/</loc>
-    <lastmod>2026-04-02T20:34:04-03:00</lastmod>
-  </url><url>
-    <loc>https://example.org/</loc>
-    <lastmod>2026-04-02T20:34:04-03:00</lastmod>
-  </url><url>
-    <loc>https://example.org/categories/conto/</loc>
+    <loc>http://localhost:1313/categories/conto/</loc>
     <lastmod>2026-03-29T14:26:54-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/um_agradavel_fim/</loc>
+    <loc>http://localhost:1313/posts/um_agradavel_fim/</loc>
     <lastmod>2026-03-29T14:26:54-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/prosa/</loc>
+    <loc>http://localhost:1313/posts/vida_estranha/</loc>
     <lastmod>2026-02-12T05:23:08-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/vida_estranha/</loc>
-    <lastmod>2026-02-12T05:23:08-03:00</lastmod>
-  </url><url>
-    <loc>https://example.org/posts/tudo_bem/</loc>
+    <loc>http://localhost:1313/posts/tudo_bem/</loc>
     <lastmod>2026-02-07T15:42:48-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/consciencia/</loc>
+    <loc>http://localhost:1313/posts/consciencia/</loc>
     <lastmod>2026-01-31T03:08:53-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/reflexoes_travessas/</loc>
+    <loc>http://localhost:1313/posts/reflexoes_travessas/</loc>
     <lastmod>2026-01-27T01:55:04-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/bom_senso/</loc>
+    <loc>http://localhost:1313/posts/bom_senso/</loc>
     <lastmod>2026-01-09T14:43:20-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/amor_no_seculo_da_putaria/</loc>
+    <loc>http://localhost:1313/posts/amor_no_seculo_da_putaria/</loc>
     <lastmod>2025-12-14T05:40:32-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/lembrancas_confusas/</loc>
+    <loc>http://localhost:1313/posts/lembrancas_confusas/</loc>
     <lastmod>2025-11-28T17:31:52-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/suficiente/</loc>
+    <loc>http://localhost:1313/posts/suficiente/</loc>
     <lastmod>2025-11-11T10:31:16-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/drama/</loc>
+    <loc>http://localhost:1313/categories/drama/</loc>
     <lastmod>2025-10-14T18:42:06-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/suspense/</loc>
+    <loc>http://localhost:1313/categories/suspense/</loc>
     <lastmod>2025-10-14T18:42:06-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/um_dia_ruim/</loc>
+    <loc>http://localhost:1313/posts/um_dia_ruim/</loc>
     <lastmod>2025-10-14T18:42:06-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/falhar/</loc>
+    <loc>http://localhost:1313/posts/falhar/</loc>
     <lastmod>2025-10-11T04:26:54-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/pensamento/</loc>
+    <loc>http://localhost:1313/categories/pensamento/</loc>
     <lastmod>2025-10-11T04:26:54-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/erro/</loc>
+    <loc>http://localhost:1313/posts/erro/</loc>
     <lastmod>2025-10-06T05:07:08-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/peso/</loc>
+    <loc>http://localhost:1313/posts/peso/</loc>
     <lastmod>2025-09-25T05:39:36-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/palavras/</loc>
+    <loc>http://localhost:1313/posts/palavras/</loc>
     <lastmod>2025-06-30T17:06:01-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/arma/</loc>
+    <loc>http://localhost:1313/posts/arma/</loc>
     <lastmod>2025-06-01T17:05:56-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/calma/</loc>
+    <loc>http://localhost:1313/posts/calma/</loc>
     <lastmod>2025-05-24T17:05:52-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/relacionamentos/</loc>
+    <loc>http://localhost:1313/posts/relacionamentos/</loc>
     <lastmod>2025-05-18T17:05:45-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/movimento/</loc>
+    <loc>http://localhost:1313/posts/movimento/</loc>
     <lastmod>2025-03-02T17:05:39-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/o_cinza_mais_colorido/</loc>
+    <loc>http://localhost:1313/posts/o_cinza_mais_colorido/</loc>
     <lastmod>2024-09-24T17:05:25-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/eu_e_voce/</loc>
+    <loc>http://localhost:1313/posts/eu_e_voce/</loc>
     <lastmod>2024-08-30T17:05:07-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/escrevo/</loc>
+    <loc>http://localhost:1313/posts/escrevo/</loc>
     <lastmod>2024-07-31T17:05:13-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/mais/</loc>
+    <loc>http://localhost:1313/posts/mais/</loc>
     <lastmod>2024-07-21T17:04:52-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/ancestral/</loc>
+    <loc>http://localhost:1313/posts/ancestral/</loc>
     <lastmod>2024-07-21T17:04:47-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/sangrar/</loc>
+    <loc>http://localhost:1313/posts/sangrar/</loc>
     <lastmod>2024-07-06T17:04:41-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/rosas/</loc>
+    <loc>http://localhost:1313/posts/rosas/</loc>
     <lastmod>2024-06-30T17:04:34-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/archives/</loc>
+    <loc>http://localhost:1313/archives/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

@@ -2,60 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Textos</title>
-    <link>https://example.org/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Textos</description>
     <generator>Hugo -- 0.154.2</generator>
     <language>pt-br</language>
     <copyright>Pablo Andrade</copyright>
-    <lastBuildDate>Thu, 02 Apr 2026 20:34:04 -0300</lastBuildDate>
-    <atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Poema</title>
-      <link>https://example.org/categories/poema/</link>
-      <pubDate>Thu, 02 Apr 2026 20:34:04 -0300</pubDate>
-      <guid>https://example.org/categories/poema/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Tue, 05 May 2026 22:55:40 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Poesia</title>
-      <link>https://example.org/categories/poesia/</link>
-      <pubDate>Thu, 02 Apr 2026 20:34:04 -0300</pubDate>
-      <guid>https://example.org/categories/poesia/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Conto</title>
-      <link>https://example.org/categories/conto/</link>
-      <pubDate>Sun, 29 Mar 2026 14:26:54 -0300</pubDate>
-      <guid>https://example.org/categories/conto/</guid>
+      <link>http://localhost:1313/categories/poesia/</link>
+      <pubDate>Tue, 05 May 2026 22:55:40 -0300</pubDate>
+      <guid>http://localhost:1313/categories/poesia/</guid>
       <description></description>
     </item>
     <item>
       <title>Prosa</title>
-      <link>https://example.org/categories/prosa/</link>
-      <pubDate>Thu, 12 Feb 2026 05:23:08 -0300</pubDate>
-      <guid>https://example.org/categories/prosa/</guid>
+      <link>http://localhost:1313/categories/prosa/</link>
+      <pubDate>Tue, 05 May 2026 22:55:40 -0300</pubDate>
+      <guid>http://localhost:1313/categories/prosa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Poema</title>
+      <link>http://localhost:1313/categories/poema/</link>
+      <pubDate>Thu, 02 Apr 2026 20:34:04 -0300</pubDate>
+      <guid>http://localhost:1313/categories/poema/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Conto</title>
+      <link>http://localhost:1313/categories/conto/</link>
+      <pubDate>Sun, 29 Mar 2026 14:26:54 -0300</pubDate>
+      <guid>http://localhost:1313/categories/conto/</guid>
       <description></description>
     </item>
     <item>
       <title>Drama</title>
-      <link>https://example.org/categories/drama/</link>
+      <link>http://localhost:1313/categories/drama/</link>
       <pubDate>Tue, 14 Oct 2025 18:42:06 -0300</pubDate>
-      <guid>https://example.org/categories/drama/</guid>
+      <guid>http://localhost:1313/categories/drama/</guid>
       <description></description>
     </item>
     <item>
       <title>Suspense</title>
-      <link>https://example.org/categories/suspense/</link>
+      <link>http://localhost:1313/categories/suspense/</link>
       <pubDate>Tue, 14 Oct 2025 18:42:06 -0300</pubDate>
-      <guid>https://example.org/categories/suspense/</guid>
+      <guid>http://localhost:1313/categories/suspense/</guid>
       <description></description>
     </item>
     <item>
       <title>Pensamento</title>
-      <link>https://example.org/categories/pensamento/</link>
+      <link>http://localhost:1313/categories/pensamento/</link>
       <pubDate>Sat, 11 Oct 2025 04:26:54 -0300</pubDate>
-      <guid>https://example.org/categories/pensamento/</guid>
+      <guid>http://localhost:1313/categories/pensamento/</guid>
       <description></description>
     </item>
   </channel>
