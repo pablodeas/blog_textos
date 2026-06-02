@@ -2,18 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Prosa on Textos</title>
-    <link>http://localhost:1313/categories/prosa/</link>
+    <link>https://example.org/categories/prosa/</link>
     <description>Recent content in Prosa on Textos</description>
-    <generator>Hugo -- 0.154.2</generator>
+    <generator>Hugo -- 0.161.1</generator>
     <language>pt-br</language>
     <copyright>Pablo Andrade</copyright>
-    <lastBuildDate>Tue, 05 May 2026 22:55:40 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/prosa/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Jun 2026 22:25:23 -0300</lastBuildDate>
+    <atom:link href="https://example.org/categories/prosa/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Ilusorio</title>
-      <link>http://localhost:1313/posts/ilusorio/</link>
+      <title>Alvo</title>
+      <link>https://example.org/posts/alvo/</link>
+      <pubDate>Mon, 01 Jun 2026 22:25:23 -0300</pubDate>
+      <guid>https://example.org/posts/alvo/</guid>
+      <description>&lt;p&gt;A incontestável dor de não ser escolhido.&lt;/p&gt;
+&lt;p&gt;Amarrado por uma possibilidade que visivelmente não será preenchida.&lt;/p&gt;
+&lt;p&gt;Qual a opção além de esperar que algo mude?&lt;/p&gt;
+&lt;p&gt;Pensamento juvenil.&lt;/p&gt;
+&lt;p&gt;Contestável ambição.&lt;/p&gt;
+&lt;p&gt;Gosto duvidoso.&lt;/p&gt;
+&lt;p&gt;Masoquista, até.&lt;/p&gt;
+&lt;p&gt;A resposta.&lt;/p&gt;
+&lt;p&gt;Reprimir a si mesmo, aguardando pela boa vontade?&lt;/p&gt;
+&lt;p&gt;Enfatizar seus desejos, sofrendo com as reações óbvias da denúncia?&lt;/p&gt;
+&lt;p&gt;A resposta é apenas a dor.&lt;/p&gt;
+&lt;p&gt;Da impossibilidade de ser alvo.&lt;/p&gt;
+&lt;p&gt;Mas lembre-se: A vida é curta.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ilusório</title>
+      <link>https://example.org/posts/ilusorio/</link>
       <pubDate>Tue, 05 May 2026 22:55:40 -0300</pubDate>
-      <guid>http://localhost:1313/posts/ilusorio/</guid>
+      <guid>https://example.org/posts/ilusorio/</guid>
       <description>&lt;p&gt;É ilusório achar que tudo vai dar certo.&lt;/p&gt;
 &lt;p&gt;Pior até, não estar preparado para esses momentos.&lt;/p&gt;
 &lt;p&gt;A vida, como conhecimento comum, formada de altos e baixos.&lt;/p&gt;
@@ -27,9 +46,9 @@
     </item>
     <item>
       <title>Vida Estranha</title>
-      <link>http://localhost:1313/posts/vida_estranha/</link>
+      <link>https://example.org/posts/vida_estranha/</link>
       <pubDate>Thu, 12 Feb 2026 05:23:08 -0300</pubDate>
-      <guid>http://localhost:1313/posts/vida_estranha/</guid>
+      <guid>https://example.org/posts/vida_estranha/</guid>
       <description>&lt;p&gt;A vida é estranha.&lt;/p&gt;
 &lt;p&gt;Por isso, me reconforto no &amp;ldquo;viver o agora&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;Não se prender com o que será depois.&lt;/p&gt;
@@ -43,9 +62,9 @@
     </item>
     <item>
       <title>Tudo bem?</title>
-      <link>http://localhost:1313/posts/tudo_bem/</link>
+      <link>https://example.org/posts/tudo_bem/</link>
       <pubDate>Sat, 07 Feb 2026 15:42:48 -0300</pubDate>
-      <guid>http://localhost:1313/posts/tudo_bem/</guid>
+      <guid>https://example.org/posts/tudo_bem/</guid>
       <description>&lt;p&gt;Me questionaram recentemente:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Quanto tempo que você não se sente bem, de fato?&lt;/li&gt;
@@ -61,9 +80,9 @@
     </item>
     <item>
       <title>Consciência</title>
-      <link>http://localhost:1313/posts/consciencia/</link>
+      <link>https://example.org/posts/consciencia/</link>
       <pubDate>Sat, 31 Jan 2026 03:08:53 -0300</pubDate>
-      <guid>http://localhost:1313/posts/consciencia/</guid>
+      <guid>https://example.org/posts/consciencia/</guid>
       <description>&lt;p&gt;Ter consciência de si mesmo é cansativo.&lt;/p&gt;
 &lt;p&gt;Tantas alterações no dia a dia.&lt;/p&gt;
 &lt;p&gt;Tantos novos estímulos, positivos ou negativos.&lt;/p&gt;
@@ -75,9 +94,9 @@
     </item>
     <item>
       <title>Reflexões Travessas</title>
-      <link>http://localhost:1313/posts/reflexoes_travessas/</link>
+      <link>https://example.org/posts/reflexoes_travessas/</link>
       <pubDate>Tue, 27 Jan 2026 01:55:04 -0300</pubDate>
-      <guid>http://localhost:1313/posts/reflexoes_travessas/</guid>
+      <guid>https://example.org/posts/reflexoes_travessas/</guid>
       <description>&lt;p&gt;Eu penso demais.&lt;/p&gt;
 &lt;p&gt;Muito mesmo.&lt;/p&gt;
 &lt;p&gt;Eu penso muito e normalmente não chego a conclusões definitivas.&lt;/p&gt;
@@ -94,9 +113,9 @@
     </item>
     <item>
       <title>Bom Senso</title>
-      <link>http://localhost:1313/posts/bom_senso/</link>
+      <link>https://example.org/posts/bom_senso/</link>
       <pubDate>Fri, 09 Jan 2026 14:43:20 -0300</pubDate>
-      <guid>http://localhost:1313/posts/bom_senso/</guid>
+      <guid>https://example.org/posts/bom_senso/</guid>
       <description>&lt;p&gt;Recentemente, uma amiga disse algo que ficou em minha mente.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;“Às vezes, o óbvio precisa SIM ser dito em voz alta.”&lt;/li&gt;
@@ -108,9 +127,9 @@
     </item>
     <item>
       <title>Amor no Século da Putaria</title>
-      <link>http://localhost:1313/posts/amor_no_seculo_da_putaria/</link>
+      <link>https://example.org/posts/amor_no_seculo_da_putaria/</link>
       <pubDate>Sun, 14 Dec 2025 05:40:32 -0300</pubDate>
-      <guid>http://localhost:1313/posts/amor_no_seculo_da_putaria/</guid>
+      <guid>https://example.org/posts/amor_no_seculo_da_putaria/</guid>
       <description>&lt;p&gt;Eu sempre tive uma percepção antiquada sobre amor e relacionamento.&lt;/p&gt;
 &lt;p&gt;Talvez por ter tido um excelente exemplo em casa.&lt;/p&gt;
 &lt;p&gt;Talvez pela influência midiática da época.&lt;/p&gt;
