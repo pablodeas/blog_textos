@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Pessoal on Pablo A.</title>
+    <link>https://example.org/categories/pessoal/</link>
+    <description>Recent content in Pessoal on Pablo A.</description>
+    <generator>Hugo -- 0.164.0</generator>
+    <language>pt-br</language>
+    <copyright>Pablo Andrade</copyright>
+    <lastBuildDate>Wed, 09 Sep 2026 23:56:24 -0300</lastBuildDate>
+    <atom:link href="https://example.org/categories/pessoal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Relações</title>
+      <link>https://example.org/posts/relacoes/</link>
+      <pubDate>Wed, 09 Sep 2026 23:56:24 -0300</pubDate>
+      <guid>https://example.org/posts/relacoes/</guid>
+      <description>&lt;p&gt;As coisas acabam quando precisam acabar.&lt;/p&gt;
+&lt;p&gt;Não sei se concordo 100% com essa afirmação.&lt;/p&gt;
+&lt;p&gt;Nesses últimos anos como um homem solteiro, conheci e vivi muitas coisas diferentes das quais eu estava acostumado.&lt;/p&gt;
+&lt;p&gt;Aprendi nesse tempo a conversar e me envolver melhor com outras pessoas.&lt;/p&gt;
+&lt;p&gt;O meu eu do passado era bem mais tímido que o atual.&lt;/p&gt;
+&lt;p&gt;Com o passar do tempo, da convivência com novas pessoas e relacionamentos, me deparei com a verdade inexorável da separação.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

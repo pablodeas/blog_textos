@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'pt-br'
-title = 'Textos'
+title = 'Pablo A.'
 theme = "PaperMod"
 copyright = "© [Pablo Andrade](https://www.instagram.com/pablodeas/)"
 DefaultContentLanguage = "pt"
@@ -24,7 +24,7 @@ DefaultContentLanguage = "pt"
             url = "categories/prosa"
             weight = 20
         [[languages.pt.menu.main]]
-            name = "Conto"
+            name = "Contos"
             url = "categories/conto"
             weight = 30
         [[languages.pt.menu.main]]
